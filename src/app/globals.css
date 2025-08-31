@@ -1,26 +1,92 @@
-@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
+@layer base {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    /* Luxury Neutral Base - Warm whites & creams */
+    --background: 36 44% 98%; /* Buttercream white */
+    --foreground: 20 20% 10%; /* Rich charcoal */
+    
+    /* Card & Surface Colors */
+    --card: 0 0% 100%; /* Pure white for contrast */
+    --card-foreground: 20 20% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 20 20% 10%;
+    
+    /* Primary - Deep Mocha with Gold Accents */
+    --primary: 20 25% 15%; /* Deep mocha brown */
+    --primary-foreground: 36 44% 98%;
+    
+    /* Secondary - Warm Gold */
+    --secondary: 43 96% 56%; /* Luxury gold */
+    --secondary-foreground: 20 25% 15%;
+    
+    /* Muted Tones */
+    --muted: 36 20% 94%; /* Soft cream */
+    --muted-foreground: 20 15% 45%; /* Warm grey */
+    
+    /* Accent - Rose Gold */
+    --accent: 14 83% 73%; /* Rose gold */
+    --accent-foreground: 20 20% 10%;
+    
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 36 15% 88%; /* Warm border */
+    --input: 36 15% 88%;
+    --ring: 43 96% 56%; /* Gold focus ring */
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    /* Dark Luxury Theme */
+    --background: 20 25% 8%; /* Deep mocha black */
+    --foreground: 36 44% 98%; /* Warm cream */
+    
+    --card: 20 20% 12%; /* Slightly lighter mocha */
+    --card-foreground: 36 44% 98%;
+    --popover: 20 20% 12%;
+    --popover-foreground: 36 44% 98%;
+    
+    --primary: 43 96% 56%; /* Bright gold in dark mode */
+    --primary-foreground: 20 25% 8%;
+    
+    --secondary: 20 20% 18%; /* Dark mocha */
+    --secondary-foreground: 43 96% 56%;
+    
+    --muted: 20 15% 15%;
+    --muted-foreground: 36 20% 65%;
+    
+    --accent: 14 83% 73%; /* Rose gold accent */
+    --accent-foreground: 20 25% 8%;
+    
+    --destructive: 0 62% 31%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 20 15% 20%;
+    --input: 20 15% 20%;
+    --ring: 43 96% 56%;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-montserrat;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-poppins;
+  }
+  
+  .font-display {
+    @apply font-poppins;
+  }
+  
+  .font-body {
+    @apply font-montserrat;
+  }
 }

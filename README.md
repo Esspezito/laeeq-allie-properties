@@ -1,36 +1,188 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Maingard Properties - Real Estate Website
 
-## Getting Started
+A modern, interactive real estate website showcasing Michael Maingard's luxury property listings from Property24 and PrivateProperty.
 
-First, run the development server:
+## 🏡 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Property Listings
+- **Interactive Property Grid**: Displays all current listings with high-quality images
+- **Property Cards**: Show key information (price, location, bedrooms, bathrooms, size)
+- **Status Indicators**: Visual badges for availability (Available, Under Offer)
+- **Source Links**: Direct links to view properties on Property24 or PrivateProperty
+- **Advanced Filtering**: Search by location, property type, status, and bedrooms
+
+### Agent Profile
+- **Professional Bio**: Detailed information about Michael Maingard
+- **Contact Information**: Multiple ways to reach the agent (phone, email, office)
+- **Specializations**: Areas of expertise and service locations
+- **Achievements**: Professional credentials and accomplishments
+
+### Modern UI/UX
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile
+- **Smooth Animations**: Framer Motion animations for enhanced user experience
+- **Interactive Elements**: Hover effects, transitions, and micro-interactions
+- **Modern Styling**: Clean design using shadcn/ui components and Tailwind CSS
+
+### Interactive Features
+- **Floating Action Buttons**: Quick access to call or WhatsApp the agent
+- **Scroll to Top**: Easy navigation for long pages
+- **Dynamic Navigation**: Changes appearance based on scroll position
+- **Loading States**: Skeleton loading for better perceived performance
+
+## 🚀 Technology Stack
+
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS v3
+- **UI Components**: shadcn/ui
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Image Optimization**: Next.js Image component
+
+## 📁 Project Structure
+
+```
+src/
+├── app/
+│   ├── api/
+│   │   ├── agent/          # Agent profile API
+│   │   └── properties/     # Properties API
+│   ├── about/             # About page
+│   ├── globals.css        # Global styles
+│   ├── layout.tsx         # Root layout
+│   └── page.tsx           # Home page
+├── components/
+│   ├── ui/                # shadcn/ui components
+│   ├── Hero.tsx           # Hero section
+│   ├── Navigation.tsx     # Main navigation
+│   ├── PropertyCard.tsx   # Property listing card
+│   ├── PropertyFilters.tsx # Filtering system
+│   ├── InteractiveFeatures.tsx # Floating actions
+│   └── LoadingSpinner.tsx # Loading animation
+├── lib/
+│   ├── mockData.ts        # Sample property data
+│   └── utils.ts           # Utility functions
+└── types/
+    └── property.ts        # TypeScript interfaces
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🏃‍♂️ Getting Started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Install dependencies**:
+   ```bash
+   npm install
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
 
-## Learn More
+3. **Open your browser** and navigate to `http://localhost:3003`
 
-To learn more about Next.js, take a look at the following resources:
+## 📱 Pages
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Home Page (`/`)
+- Hero section with agent introduction
+- Property listings grid with filtering
+- Statistics section
+- Footer with contact information
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### About Page (`/about`)
+- Agent profile and bio
+- Contact information
+- Specializations and service areas
+- Call-to-action sections
 
-## Deploy on Vercel
+## 🔌 API Endpoints
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### `/api/properties`
+Returns all property listings with the following structure:
+```json
+{
+  "success": true,
+  "properties": [...],
+  "total": 7,
+  "agent": "Michael Maingard"
+}
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### `/api/agent`
+Returns agent profile information:
+```json
+{
+  "success": true,
+  "agent": {
+    "name": "Michael Maingard",
+    "title": "Luxury Property Specialist",
+    "company": "Greeff Christie's International Real Estate",
+    ...
+  }
+}
+```
+
+## 🎨 Design System
+
+The website uses a modern design system with:
+- **Primary Color**: Blue (#3b82f6)
+- **Typography**: System font stack
+- **Spacing**: Consistent 8px grid
+- **Border Radius**: Rounded corners (8px)
+- **Shadows**: Subtle elevation
+- **Animations**: Smooth 300ms transitions
+
+## 📊 Property Data
+
+Currently using mock data representing Michael Maingard's actual listings:
+- 7 luxury properties
+- Price range: R2.6M - R95M
+- Locations: Sea Point, Green Point, Camps Bay
+- Property types: Apartments, Studios, Penthouses, Villas
+
+## 🔗 External Links
+
+All property cards link directly to their source listings on:
+- Property24.com
+- PrivateProperty.co.za
+
+## 🚀 Deployment
+
+The website can be deployed on:
+- **Vercel** (recommended for Next.js)
+- **Netlify**
+- **Digital Ocean**
+- **AWS**
+
+For production deployment:
+```bash
+npm run build
+npm start
+```
+
+## 📞 Contact Integration
+
+The website includes multiple contact methods:
+- **Phone**: Direct calling links
+- **Email**: mailto links
+- **WhatsApp**: Direct messaging
+- **Office**: Physical address display
+
+## 🔮 Future Enhancements
+
+Potential improvements for production:
+- Real-time scraping from Property24 and PrivateProperty
+- Property favorites and comparison
+- Virtual tour integration
+- Lead capture forms
+- Blog/news section
+- Property valuation tools
+- Neighborhood information
+- Market insights
+
+## 📄 License
+
+This project is created for Michael Maingard - Greeff Christie's International Real Estate.
+
+---
+
+**Built with ❤️ for luxury real estate in Cape Town**
