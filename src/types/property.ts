@@ -28,6 +28,6 @@ export interface AgentProfile {
   bio: string;
   specializations: string[];
   areas: string[];
-  profileImage?: string;
+  profileImage: string;
   achievements?: string[];
 }

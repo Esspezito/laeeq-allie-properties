@@ -16,6 +16,44 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "La'eeq Allie | Greeff Christie's International Real Estate",
   description: "Discover exceptional properties in Cape Town's City Bowl, Gardens, and Woodstock with La'eeq Allie - Your trusted real estate professional",
+  keywords: "Cape Town real estate, property sales, City Bowl properties, Gardens properties, Woodstock properties, Christie's International Real Estate, La'eeq Allie",
+  authors: [{ name: "La'eeq Allie" }],
+  creator: "La'eeq Allie",
+  publisher: "Greeff Christie's International Real Estate",
+  metadataBase: new URL('https://laeeqallieproperties.com'),
+  openGraph: {
+    title: "La'eeq Allie | Greeff Christie's International Real Estate",
+    description: "Discover exceptional properties in Cape Town's City Bowl, Gardens, and Woodstock with La'eeq Allie - Your trusted real estate professional",
+    url: 'https://laeeqallieproperties.com',
+    siteName: "La'eeq Allie Properties",
+    locale: 'en_ZA',
+    type: 'website',
+    images: [
+      {
+        url: '/laeeq-headshot.jpg',
+        width: 1200,
+        height: 630,
+        alt: "La'eeq Allie - Real Estate Professional",
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: "La'eeq Allie | Greeff Christie's International Real Estate",
+    description: "Discover exceptional properties in Cape Town's City Bowl, Gardens, and Woodstock with La'eeq Allie",
+    images: ['/laeeq-headshot.jpg'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({
