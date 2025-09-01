@@ -19,8 +19,19 @@ export default function AboutPage() {
       <Navigation />
       
       {/* Hero Section */}
-      <section className="relative pt-24 pb-16 bg-gradient-to-b from-primary/10 to-background">
-        <div className="container mx-auto px-4">
+      <section className="relative pt-24 pb-16 overflow-hidden">
+        {/* Background Image */}
+        <div className="absolute inset-0 z-0">
+          <Image
+            src="/A-16.jpg"
+            alt="Cape Town City Bowl and Table Mountain"
+            fill
+            className="object-cover"
+            priority
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-background/95" />
+        </div>
+        <div className="container mx-auto px-4 relative z-10">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -44,9 +55,9 @@ export default function AboutPage() {
               </div>
             </motion.div>
             
-            <h1 className="text-4xl md:text-5xl font-bold mb-4">{agentProfile.name}</h1>
-            <p className="text-xl text-muted-foreground mb-2">{agentProfile.title}</p>
-            <p className="text-lg text-muted-foreground mb-6">{agentProfile.company}</p>
+            <h1 className="text-4xl md:text-5xl font-bold mb-4 text-white">{agentProfile.name}</h1>
+            <p className="text-xl text-white/90 mb-2">{agentProfile.title}</p>
+            <p className="text-lg text-white/80 mb-6">{agentProfile.company}</p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" asChild>
