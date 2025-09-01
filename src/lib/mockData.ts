@@ -23,7 +23,7 @@ export const agentProfile: AgentProfile = {
     "City Bowl",
     "Vredehoek"
   ],
-  profileImage: "/laeeq-headshot.jpg",
+  profileImage: "/A-16.jpg",
   achievements: [
     "Part of Christie's International Real Estate network",
     "Specialist in City Bowl properties",
