@@ -20,11 +20,11 @@ export const metadata: Metadata = {
   authors: [{ name: "La'eeq Allie" }],
   creator: "La'eeq Allie",
   publisher: "Greeff Christie's International Real Estate",
-  metadataBase: new URL('https://laeeqallieproperties.com'),
+  metadataBase: new URL('https://allierealty.com'),
   openGraph: {
     title: "La'eeq Allie | Greeff Christie's International Real Estate",
     description: "Discover exceptional properties in Cape Town's City Bowl, Gardens, and Woodstock with La'eeq Allie - Your trusted real estate professional",
-    url: 'https://laeeqallieproperties.com',
+    url: 'https://allierealty.com',
     siteName: "La'eeq Allie Properties",
     locale: 'en_ZA',
     type: 'website',
