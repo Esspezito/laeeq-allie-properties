@@ -52,7 +52,8 @@ export default function Hero({ agentName, agentTitle, agentCompany, agentPhone, 
                 src="/A-16.jpg"
                 alt="La'eeq Allie - Real Estate Professional"
                 fill
-                className="object-cover rounded-full border-4 border-white/20 shadow-2xl"
+                className="object-cover object-center rounded-full border-4 border-white/20 shadow-2xl"
+                style={{ objectPosition: '50% 30%' }}
                 priority
               />
               <div className="absolute inset-0 rounded-full bg-gradient-to-t from-primary/20 to-transparent" />

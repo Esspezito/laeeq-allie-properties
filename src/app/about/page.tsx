@@ -37,7 +37,8 @@ export default function AboutPage() {
                   src={agentProfile.profileImage}
                   alt={agentProfile.name}
                   fill
-                  className="object-cover rounded-full border-4 border-primary/20 shadow-2xl"
+                  className="object-cover object-center rounded-full border-4 border-primary/20 shadow-2xl"
+                  style={{ objectPosition: '50% 30%' }}
                   priority
                 />
                 <div className="absolute inset-0 rounded-full bg-gradient-to-t from-primary/10 to-transparent" />
