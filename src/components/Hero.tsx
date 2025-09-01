@@ -4,7 +4,6 @@ import { motion } from 'framer-motion';
 import { Button } from '@/components/ui/button';
 import { Phone, Mail, ChevronDown } from 'lucide-react';
 import Image from 'next/image';
-import { ThemeToggle } from '@/components/theme-toggle';
 
 interface HeroProps {
   agentName: string;
@@ -24,7 +23,7 @@ export default function Hero({ agentName, agentTitle, agentCompany, agentPhone, 
       {/* Background with gradient overlay */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/A-16.jpg"
+          src="https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1920&h=1080&fit=crop&q=80"
           alt="Cape Town City Bowl and Table Mountain"
           fill
           className="object-cover"
@@ -32,16 +31,6 @@ export default function Hero({ agentName, agentTitle, agentCompany, agentPhone, 
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/40 to-background/95" />
       </div>
-
-      {/* Theme Toggle - positioned in top-right corner */}
-      <motion.div
-        initial={{ opacity: 0, scale: 0 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ delay: 1, duration: 0.5 }}
-        className="absolute top-4 right-4 z-20 md:hidden"
-      >
-        <ThemeToggle />
-      </motion.div>
 
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 py-20 text-center">
@@ -60,7 +49,7 @@ export default function Hero({ agentName, agentTitle, agentCompany, agentPhone, 
           >
             <div className="relative w-32 h-32 md:w-40 md:h-40 mx-auto">
               <Image
-                src="/laeeq-headshot.jpg"
+                src="/A-16.jpg"
                 alt="La'eeq Allie - Real Estate Professional"
                 fill
                 className="object-cover rounded-full border-4 border-white/20 shadow-2xl"

@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: '/laeeq-headshot.jpg',
+        url: '/A-16.jpg',
         width: 1200,
         height: 630,
         alt: "La'eeq Allie - Real Estate Professional",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "La'eeq Allie | Greeff Christie's International Real Estate",
     description: "Discover exceptional properties in Cape Town's City Bowl, Gardens, and Woodstock with La'eeq Allie",
-    images: ['/laeeq-headshot.jpg'],
+    images: ['/A-16.jpg'],
   },
   robots: {
     index: true,
