@@ -45,9 +45,9 @@ export default function AboutPage() {
               </div>
             </motion.div>
             
-            <h1 className="text-4xl md:text-5xl font-bold mb-4">{agentProfile.name}</h1>
-            <p className="text-xl text-muted-foreground mb-2">{agentProfile.title}</p>
-            <p className="text-lg text-muted-foreground mb-6">{agentProfile.company}</p>
+            <h1 className="text-4xl md:text-5xl font-bold mb-4 text-foreground">{agentProfile.name}</h1>
+            <p className="text-xl text-foreground/80 mb-2">{agentProfile.title}</p>
+            <p className="text-lg text-foreground/70 mb-6">{agentProfile.company}</p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" asChild>

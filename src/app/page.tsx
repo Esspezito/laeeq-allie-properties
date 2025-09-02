@@ -98,40 +98,23 @@ export default function Home() {
           >
             <motion.h2 
               className="text-4xl font-bold font-poppins mb-4 inline-block tracking-tight"
-              initial={{ x: -100, opacity: 0, rotateY: -45 }}
-              whileInView={{ x: 0, opacity: 1, rotateY: 0 }}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
-              transition={{ 
-                duration: 0.8,
-                type: "spring",
-                damping: 15
-              }}
+              transition={{ duration: 0.6 }}
               whileHover={{ 
                 scale: 1.05,
-                textShadow: "0 5px 20px rgba(0,0,0,0.2)"
+                transition: { duration: 0.2 }
               }}
-              style={{ transformStyle: 'preserve-3d' }}
             >
-              {'Current Listings'.split(' ').map((word, wordIndex) => (
-                <motion.span
-                  key={wordIndex}
-                  initial={{ opacity: 0, y: 50 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  viewport={{ once: true }}
-                  transition={{ delay: wordIndex * 0.2 }}
-                  style={{ display: 'inline-block', marginRight: '0.3em' }}
-                >
-                  {word}
-                </motion.span>
-              ))}
+              Current Listings
             </motion.h2>
             <motion.p 
               className="text-muted-foreground text-lg"
-              initial={{ opacity: 0, scale: 0.8 }}
-              whileInView={{ opacity: 1, scale: 1 }}
+              initial={{ opacity: 0 }}
+              whileInView={{ opacity: 1 }}
               viewport={{ once: true }}
-              transition={{ delay: 0.4, duration: 0.6 }}
-              whileHover={{ letterSpacing: '0.02em' }}
+              transition={{ delay: 0.2, duration: 0.6 }}
             >
               Explore {filteredProperties.length} exclusive properties in Cape Town's most sought-after locations
             </motion.p>

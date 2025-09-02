@@ -67,68 +67,33 @@ export default function Hero({ agentName, agentTitle, agentCompany, agentPhone, 
             className="mb-6"
           >
             <motion.h1 
-              className="text-5xl md:text-7xl font-bold font-poppins text-white mb-4 perspective-1000 tracking-tight"
-              initial={{ rotateX: -90, opacity: 0, z: -100 }}
-              animate={{ 
-                rotateX: 0, 
-                opacity: 1, 
-                z: 0,
-              }}
-              transition={{ 
-                duration: 1.2, 
-                ease: "easeOut",
-                delay: 0.3 
-              }}
+              className="text-5xl md:text-7xl font-bold font-serif text-white mb-4 tracking-tight"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8, delay: 0.3 }}
               style={{ 
-                transformStyle: 'preserve-3d',
-                textShadow: '0 10px 40px rgba(0,0,0,0.5), 0 2px 10px rgba(0,0,0,0.3)'
+                textShadow: '0 4px 20px rgba(0,0,0,0.7), 0 2px 10px rgba(0,0,0,0.5)'
+              }}
+              whileHover={{ 
+                scale: 1.05,
+                transition: { duration: 0.2 }
               }}
             >
-              {agentName.split('').map((char, index) => (
-                <motion.span
-                  key={index}
-                  initial={{ y: 100, opacity: 0 }}
-                  animate={{ y: 0, opacity: 1 }}
-                  transition={{ 
-                    delay: 0.5 + index * 0.05,
-                    type: "spring",
-                    damping: 12,
-                    stiffness: 100
-                  }}
-                  whileHover={{ 
-                    scale: 1.2, 
-                    rotateZ: [-5, 5, -5, 0],
-                    color: '#fbbf24',
-                    transition: { duration: 0.3 }
-                  }}
-                  style={{ display: 'inline-block' }}
-                >
-                  {char === ' ' ? '\u00A0' : char}
-                </motion.span>
-              ))}
+              {agentName}
             </motion.h1>
             <motion.p 
-              className="text-xl md:text-2xl font-raleway font-light text-white/90 mb-2 tracking-wide"
-              initial={{ x: -200, opacity: 0 }}
-              animate={{ x: 0, opacity: 1 }}
-              transition={{ 
-                delay: 0.8, 
-                type: "spring",
-                stiffness: 60
-              }}
-              whileHover={{ letterSpacing: '0.05em' }}
+              className="text-xl md:text-2xl font-medium text-white mb-2 tracking-wide drop-shadow-lg"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.5 }}
             >
               {agentTitle}
             </motion.p>
             <motion.p 
-              className="text-lg font-montserrat text-white/80 tracking-wide"
-              initial={{ x: 200, opacity: 0 }}
-              animate={{ x: 0, opacity: 1 }}
-              transition={{ 
-                delay: 0.9, 
-                type: "spring",
-                stiffness: 60
-              }}
+              className="text-lg font-medium text-white/95 tracking-wide drop-shadow-lg"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.6 }}
             >
               {agentCompany}
             </motion.p>
@@ -141,7 +106,7 @@ export default function Hero({ agentName, agentTitle, agentCompany, agentPhone, 
             className="text-lg md:text-xl text-white/90 mb-8 max-w-2xl mx-auto"
           >
             Specializing in sectional-title and freehold residential properties across 
-            Cape Town's City Bowl, Gardens, and Woodstock. Your trusted partner in finding the perfect property.
+            Cape Town's City Bowl, Gardens, and Waterfront. Your trusted partner in finding the perfect property.
           </motion.p>
 
           <motion.div

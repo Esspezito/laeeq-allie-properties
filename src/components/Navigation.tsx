@@ -41,22 +41,7 @@ export default function Navigation() {
                 transition: { duration: 0.2 }
               }}
             >
-              {"La'eeq Allie Properties".split('').map((char, index) => (
-                <motion.span
-                  key={index}
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ delay: index * 0.02 }}
-                  whileHover={{ 
-                    color: isScrolled ? "#fbbf24" : "#fde047",
-                    y: -2,
-                    transition: { duration: 0.1 }
-                  }}
-                  style={{ display: 'inline-block' }}
-                >
-                  {char === ' ' ? '\u00A0' : char}
-                </motion.span>
-              ))}
+              La'eeq Allie Properties
             </motion.div>
           </Link>
 
@@ -83,16 +68,6 @@ export default function Navigation() {
               <span>About</span>
             </Link>
             <ThemeToggle />
-            <Button 
-              variant={isScrolled ? "default" : "secondary"}
-              size="sm"
-              asChild
-            >
-              <a href="tel:+27821234567" className="flex items-center">
-                <Phone className="h-4 w-4 mr-2" />
-                +27 82 123 4567
-              </a>
-            </Button>
           </div>
 
           {/* Mobile: Theme Toggle and Menu Button */}

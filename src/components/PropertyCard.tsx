@@ -80,18 +80,9 @@ export default function PropertyCard({ property, index = 0 }: PropertyCardProps)
         </div>
         
         <CardContent className="flex-grow p-4">
-          <motion.h3 
-            className="font-semibold font-poppins text-lg mb-2 line-clamp-2 tracking-tight"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ delay: index * 0.1 + 0.3 }}
-            whileHover={{ 
-              letterSpacing: '0.02em',
-              transition: { duration: 0.2 }
-            }}
-          >
+          <h3 className="font-semibold font-poppins text-lg mb-2 line-clamp-2 tracking-tight">
             {property.title}
-          </motion.h3>
+          </h3>
           <div className="flex items-center text-muted-foreground mb-3">
             <MapPin className="h-4 w-4 mr-1" />
             <span className="text-sm">{property.location}</span>

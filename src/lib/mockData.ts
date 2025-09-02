@@ -8,7 +8,7 @@ export const agentProfile: AgentProfile = {
   email: "laeeq@greeff.co.za",
   officePhone: "+27 21 763 4120",
   address: "Greeff House, 262 Main Road, Kenilworth, Cape Town, 7708",
-  bio: "La'eeq Allie is a dedicated real estate professional specializing in sectional-title and freehold residential properties across Cape Town's City Bowl, Gardens, and Woodstock areas. With extensive local market knowledge and backed by Christie's International Real Estate network, La'eeq provides exceptional service to both buyers and sellers, ensuring seamless property transactions in Cape Town's most vibrant neighborhoods.",
+  bio: "La'eeq Allie is a dedicated real estate professional specializing in sectional-title and freehold residential properties across Cape Town's City Bowl, Gardens, and Waterfront areas. With extensive local market knowledge and backed by Christie's International Real Estate network, La'eeq provides exceptional service to both buyers and sellers, ensuring seamless property transactions in Cape Town's most vibrant neighborhoods.",
   specializations: [
     "Sectional Title Properties",
     "Freehold Residential", 
@@ -19,12 +19,13 @@ export const agentProfile: AgentProfile = {
   areas: [
     "Cape Town City Centre",
     "Gardens", 
-    "Woodstock",
+    "Waterfront",
     "City Bowl",
     "Vredehoek"
   ],
   profileImage: "/A-16.jpg",
   achievements: [
+    "Silver Club Member",
     "Part of Christie's International Real Estate network",
     "Specialist in City Bowl properties",
     "Expert in investment and Airbnb potential properties",
