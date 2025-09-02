@@ -36,7 +36,7 @@ export const agentProfile: AgentProfile = {
 export const mockProperties: Property[] = [
   {
     id: "116280718",
-    title: "Studio Apartment in Cape Town City Centre",
+    title: "0.5 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 2,995,000",
     location: "Cape Town City Centre",
     bedrooms: 0.5,
@@ -45,18 +45,16 @@ export const mockProperties: Property[] = [
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/362320551/Crop600x400",
-      "https://images.prop24.com/362320552/Crop600x400",
-      "https://images.prop24.com/362320553/Crop600x400"
+      "https://images.prop24.com/362320551/Crop600x400"
     ],
     description: "Welcome to a beautifully re-imagined boutique development in the heart of Cape Town's vibrant City Bowl. This never-before-owned studio bedroom apartment is fully furnished and Airbnb-ready.",
     features: [
       "Fully furnished",
-      "Private 12m² balcony",
+      "Private 12m² balcony", 
       "Herringbone flooring",
-      "Open-plan layout",
       "Designer kitchen",
-      "No transfer duty"
+      "Open-plan layout",
+      "Airbnb-ready"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116280718",
@@ -65,7 +63,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116281167",
-    title: "1 Bedroom Apartment in Cape Town City Centre",
+    title: "1 Bedroom Apartment / flat for sale in Cape Town City Centre",
     price: "R 3,995,000",
     location: "Cape Town City Centre",
     bedrooms: 1,
@@ -74,18 +72,16 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/362328219/Crop600x400",
-      "https://images.prop24.com/362328220/Crop600x400",
-      "https://images.prop24.com/362328221/Crop600x400"
+      "https://images.prop24.com/362327447/Crop600x400"
     ],
-    description: "Set within a newly launched boutique development in the heart of Cape Town's City Bowl, this never-before-owned one-bedroom apartment combines functionality with standout design.",
+    description: "Set within a newly launched boutique development in the heart of Cape Town's City Bowl, this never-before-owned one-bedroom apartment combines functionality with standout design, ideal for city living or a prime investment opportunity.",
     features: [
       "Steel blue kitchen cabinetry",
-      "Integrated oven",
+      "Integrated oven", 
       "Marble-look countertops",
       "Central kitchen island",
       "Walk-in shower",
-      "Built-in cupboard space"
+      "No transfer duty"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281167",
@@ -94,27 +90,25 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116282958",
-    title: "2 Bedroom House in Woodstock",
+    title: "2 Bedroom House for Sale in Woodstock",
     price: "R 2,695,000",
-    location: "Woodstock, Cape Town",
+    location: "Woodstock, Cape Town", 
     bedrooms: 2,
     bathrooms: 1,
     area: "145 m²",
     type: "House",
     status: "available",
     images: [
-      "https://images.prop24.com/362551801/Crop600x400",
-      "https://images.prop24.com/362551802/Crop600x400",
-      "https://images.prop24.com/362551803/Crop600x400"
+      "https://images.prop24.com/362551801/Crop600x400"
     ],
     description: "Tucked away on Balfour Street in Upper Woodstock, this two bedroom, one bathroom home presents a unique opportunity to own in one of Cape Town's most dynamic and evolving neighbourhoods.",
     features: [
-      "Classic built-in home bar",
-      "Two bedrooms",
-      "Central living room",
-      "Covered entertainment area",
       "Pet friendly",
-      "Close to local coffee shops"
+      "Built-in home bar",
+      "Covered entertainment area",
+      "Upper Woodstock location",
+      "Close to coffee shops and galleries",
+      "Potential for value-adding updates"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/116282958",
@@ -123,7 +117,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116281209",
-    title: "1 Bedroom Apartment in Cape Town City Centre",
+    title: "1 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 3,995,000",
     location: "Cape Town City Centre",
     bedrooms: 1,
@@ -132,18 +126,16 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/362328219/Crop600x400",
-      "https://images.prop24.com/362328220/Crop600x400",
-      "https://images.prop24.com/362328221/Crop600x400"
+      "https://images.prop24.com/362328219/Crop600x400"
     ],
     description: "Step into a thoughtfully designed 1-bedroom apartment that blends everyday comfort with standout features, perfectly positioned in the beating heart of Cape Town's City Centre.",
     features: [
       "Stylish kitchen with built-in oven",
-      "Central kitchen island",
-      "Plenty of natural light",
+      "Spacious central island",
       "Walk-in shower",
       "Ample built-in cupboards",
-      "Ideal location in City Bowl"
+      "No transfer duty",
+      "Exclusive Mandate"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281209",
@@ -152,7 +144,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116296190",
-    title: "1 Bedroom Apartment in Gardens",
+    title: "1 Bedroom Apartment / Flat for Sale in Gardens",
     price: "R 2,199,999",
     location: "Gardens, Cape Town",
     bedrooms: 1,
@@ -161,9 +153,7 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "under-offer",
     images: [
-      "https://images.prop24.com/363736991/Crop600x400",
-      "https://images.prop24.com/363736992/Crop600x400",
-      "https://images.prop24.com/363736993/Crop600x400"
+      "https://images.prop24.com/363736991/Crop600x400"
     ],
     description: "Located on a quiet and secure street in the heart of Gardens, this stylish one bedroom apartment ticks all the right boxes, with beautiful Table Mountain views, secure parking, and full Airbnb-friendly flexibility.",
     features: [
@@ -171,8 +161,8 @@ export const mockProperties: Property[] = [
       "Table Mountain views",
       "Secure parking",
       "Open-plan layout",
-      "Built-in kitchen appliances",
-      "Airbnb-friendly"
+      "Airbnb-friendly",
+      "Under Offer"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116296190",
@@ -181,7 +171,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116280871",
-    title: "Luxury Penthouse in Cape Town City Centre",
+    title: "2 Bedroom Apartment / flat for sale in Cape Town City Centre",
     price: "R 6,950,000",
     location: "Cape Town City Centre",
     bedrooms: 2,
@@ -190,18 +180,16 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/362323143/Crop600x400",
-      "https://images.prop24.com/362323144/Crop600x400",
-      "https://images.prop24.com/362323145/Crop600x400"
+      "https://images.prop24.com/362323143/Crop600x400"
     ],
     description: "Located in the vibrant Citybowl precinct, this immaculate penthouse offers the perfect balance of luxury and urban convenience, just steps from Bree, Long, and Loop Street's top cafés, restaurants, and cultural attractions.",
     features: [
-      "Fully furnished",
-      "High-end modern finishes",
-      "Open-plan living",
-      "Designer kitchen",
+      "Fully furnished penthouse",
+      "2 bedrooms with en-suite bathrooms",
       "34m² balcony with views",
-      "Secure building"
+      "High-end modern finishes",
+      "Citybowl location",
+      "Exclusive mandate"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116280871",
@@ -209,8 +197,8 @@ export const mockProperties: Property[] = [
     agentContact: "+27 82 123 4567"
   },
   {
-    id: "116283204",
-    title: "Studio Apartment in Cape Town City Centre",
+    id: "116283204", 
+    title: "0.5 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 1,950,000",
     location: "Cape Town City Centre",
     bedrooms: 0.5,
@@ -219,18 +207,16 @@ export const mockProperties: Property[] = [
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/362978431/Crop600x400",
-      "https://images.prop24.com/362978432/Crop600x400",
-      "https://images.prop24.com/362978433/Crop600x400"
+      "https://images.prop24.com/362978431/Crop600x400"
     ],
     description: "This never-before-owned studio apartment is a compact yet beautifully crafted space, ideal for buyers seeking a low-maintenance city base or a savvy investment in a high-demand location.",
     features: [
+      "Near Greenmarket Square",
       "Herringbone flooring",
-      "Marble-inspired surfaces",
-      "French clay pink kitchen",
+      "Marble-inspired surfaces", 
+      "French clay pink kitchen cabinetry",
       "Large windows",
-      "Open-plan layout",
-      "Near Greenmarket Square"
+      "Open-plan layout"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116283204",
@@ -239,7 +225,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116226593",
-    title: "2 Bedroom Apartment in Gardens",
+    title: "2 Bedroom Apartment / Flat for Sale in Gardens",
     price: "R 4,195,000",
     location: "Gardens, Cape Town",
     bedrooms: 2,
@@ -248,18 +234,16 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/361424611/Crop600x400",
-      "https://images.prop24.com/361424612/Crop600x400",
-      "https://images.prop24.com/361424613/Crop600x400"
+      "https://images.prop24.com/361424611/Crop600x400"
     ],
-    description: "Nestled in the serene and well-maintained Nelsons View, this beautifully renovated two-bedroom, one-bathroom apartment offers the perfect blend of comfort, style, and flexibility.",
+    description: "Nestled in the serene and well-maintained Nelsons View, this beautifully renovated two-bedroom, one-bathroom apartment offers the perfect blend of comfort, style, and flexibility, ideal for both homeowners and investors.",
     features: [
       "Airbnb-friendly building",
-      "Mountain views",
+      "Mountain views", 
       "Built-in cupboards",
       "Open-plan living area",
-      "Renovated bathroom",
-      "Secure parking bay"
+      "Renovated kitchen",
+      "One secure parking bay"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116226593",
@@ -268,7 +252,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116220646",
-    title: "Studio Apartment in Cape Town City Centre",
+    title: "0.5 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 1,699,999",
     location: "Cape Town City Centre",
     bedrooms: 0.5,
@@ -277,18 +261,16 @@ export const mockProperties: Property[] = [
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/361593377/Crop600x400",
-      "https://images.prop24.com/361593378/Crop600x400",
-      "https://images.prop24.com/361593379/Crop600x400"
+      "https://images.prop24.com/361593377/Crop600x400"
     ],
     description: "Located in the historic Company Gardens district of Cape Town, this stylish studio apartment offers exceptional city living in the sought-after St Martini Gardens.",
     features: [
-      "Private balcony with views",
       "Airbnb-friendly building",
       "Communal pool",
-      "Tranquil garden",
+      "Garden with fish pond",
+      "Dedicated braai area",
       "24-hour security",
-      "On-site laundry"
+      "Private balcony with Table Mountain views"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116220646",
@@ -297,7 +279,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116200162",
-    title: "1 Bedroom Apartment in Cape Town City Centre",
+    title: "1 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 1,799,999",
     location: "Cape Town City Centre",
     bedrooms: 1,
@@ -306,18 +288,16 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/360998181/Crop600x400",
-      "https://images.prop24.com/360998182/Crop600x400",
-      "https://images.prop24.com/360998183/Crop600x400"
+      "https://images.prop24.com/360998181/Crop600x400"
     ],
     description: "Ideally located in the heart of Cape Town's vibrant City Bowl, this bright and airy Airbnb-friendly apartment offers the perfect balance of comfort, convenience, and style.",
     features: [
-      "Modern kitchen",
-      "Open-plan living",
-      "Sliding doors to balcony",
       "Secure undercover parking",
       "Spacious store room",
-      "24-hour security"
+      "24-hour security",
+      "Open-plan living and dining area",
+      "Juliet balcony",
+      "Fully furnished"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116200162",
@@ -326,7 +306,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116216202",
-    title: "1 Bedroom Duplex in Mutual Heights",
+    title: "1 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 1,850,000",
     location: "Cape Town City Centre",
     bedrooms: 1,
@@ -335,18 +315,16 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "under-offer",
     images: [
-      "https://images.prop24.com/360913421/Crop600x400",
-      "https://images.prop24.com/360913422/Crop600x400",
-      "https://images.prop24.com/360913423/Crop600x400"
+      "https://images.prop24.com/360913421/Crop600x400"
     ],
     description: "Located in the iconic Mutual Heights building in the heart of Cape Town's City Bowl, this stylishly renovated one-bedroom duplex apartment offers a unique blend of character, modern design, and income potential.",
     features: [
       "Secure parking bay",
       "24-hour security",
-      "Airbnb-friendly",
+      "Airbnb-friendly building",
       "Shared gym and pool",
-      "Modern kitchen",
-      "Loft-style bedroom"
+      "Renovated duplex",
+      "Mutual Heights building"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116216202",
@@ -355,7 +333,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116155994",
-    title: "2 Bedroom House in Woodstock",
+    title: "2 Bedroom House for Sale in Woodstock",
     price: "R 2,250,000",
     location: "Woodstock, Cape Town",
     bedrooms: 2,
@@ -364,18 +342,16 @@ export const mockProperties: Property[] = [
     type: "House",
     status: "available",
     images: [
-      "https://images.prop24.com/360263014/Crop600x400",
-      "https://images.prop24.com/360263015/Crop600x400",
-      "https://images.prop24.com/360263016/Crop600x400"
+      "https://images.prop24.com/360263014/Crop600x400"
     ],
     description: "Welcome to this beautifully maintained two-bedroom, one-bathroom home tucked away in the heart of Upper Woodstock, a perfect balance of modern finishes and timeless character.",
     features: [
       "Original wooden flooring",
-      "Fireplace in first bedroom",
-      "Built-in cupboards",
-      "Open-plan kitchen",
+      "Built-in cupboards in bedrooms",
+      "Open-plan kitchen and living area",
       "Spacious patio",
-      "Pet-friendly"
+      "Pet friendly",
+      "Fireplace in first bedroom"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/116155994",
@@ -384,7 +360,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "115943244",
-    title: "1 Bedroom Apartment in 16 on Bree",
+    title: "1 Bedroom Apartment / flat for sale in Cape Town City Centre",
     price: "R 4,495,000",
     location: "Cape Town City Centre",
     bedrooms: 1,
@@ -393,18 +369,16 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/356704291/Crop600x400",
-      "https://images.prop24.com/356704292/Crop600x400",
-      "https://images.prop24.com/356704293/Crop600x400"
+      "https://images.prop24.com/356704291/Crop600x400"
     ],
     description: "Unlock prime returns with this beautifully designed one-bedroom apartment in Cape Town's most iconic Airbnb-friendly building, 16 on Bree.",
     features: [
-      "Private balcony",
+      "Located at 16 Bree Street",
       "Rooftop pool",
       "Gym",
       "Bar on 27th floor",
-      "Panoramic views",
-      "Heart of Bree Street"
+      "Private balcony",
+      "Table Mountain and harbour views"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115943244",
@@ -413,7 +387,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "115843150",
-    title: "Investment Studio in The Carrington",
+    title: "0.5 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 1,850,000",
     location: "Cape Town City Centre",
     bedrooms: 0.5,
@@ -422,18 +396,16 @@ export const mockProperties: Property[] = [
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/355601231/Crop600x400",
-      "https://images.prop24.com/355601232/Crop600x400",
-      "https://images.prop24.com/355601233/Crop600x400"
+      "https://images.prop24.com/355601231/Crop600x400"
     ],
-    description: "Generating R370,000 of revenue in the past 12 months, this stunning investment studio could be yours today.",
+    description: "Generating R370,000 of revenue in the past 12 months, this stunning investment studio could be yours today. Located in the heart of Cape Town on vibrant Loop Street, this modern studio apartment in The Carrington offers an unbeatable investment opportunity.",
     features: [
+      "Airbnb-friendly studio",
       "The Carrington building",
+      "Generates R370,000 annual revenue",
       "Fully furnished",
-      "Biometric access",
-      "Rooftop relaxation area",
-      "Communal braai space",
-      "Airbnb-friendly"
+      "Biometric building access",
+      "Rooftop relaxation area"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115843150",
@@ -442,7 +414,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "115629416",
-    title: "1 Bedroom Apartment in 16 on Bree",
+    title: "1 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 2,999,999",
     location: "Cape Town City Centre",
     bedrooms: 1,
@@ -451,18 +423,16 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "under-offer",
     images: [
-      "https://images.prop24.com/353271841/Crop600x400",
-      "https://images.prop24.com/353271842/Crop600x400",
-      "https://images.prop24.com/353271843/Crop600x400"
+      "https://images.prop24.com/353271841/Crop600x400"
     ],
     description: "Discover luxury urban living in this beautifully renovated and stylishly furnished one-bedroom, one-bathroom apartment in the iconic 16 on Bree.",
     features: [
       "Secure parking",
       "Table Mountain views",
       "Rooftop pool and bar",
-      "Fully-equipped gym",
-      "24-hour concierge",
-      "Biometric access"
+      "Fully-equipped gym", 
+      "24-hour concierge and security",
+      "16 on Bree building"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115629416",
@@ -471,7 +441,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "115518432",
-    title: "Modern Studio in CBD",
+    title: "0.5 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 1,695,000",
     location: "Cape Town City Centre",
     bedrooms: 0.5,
@@ -480,17 +450,15 @@ export const mockProperties: Property[] = [
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/348932451/Crop600x400",
-      "https://images.prop24.com/348932452/Crop600x400",
-      "https://images.prop24.com/348932453/Crop600x400"
+      "https://images.prop24.com/348932451/Crop600x400"
     ],
-    description: "Discover the epitome of urban living in this modern studio apartment, located in the vibrant heart of Cape Town's CBD.",
+    description: "Discover the epitome of urban living in this modern studio apartment, located in the vibrant heart of Cape Town's CBD. This stylish space boasts neat and contemporary finishes, ensuring a comfortable and chic lifestyle.",
     features: [
-      "Pool",
-      "24-hour security",
+      "Cape Town City Centre",
+      "Pool available",
+      "24-hour security", 
       "State-of-the-art gym",
-      "Rooftop area",
-      "Air conditioning",
+      "Rooftop area with panoramic views",
       "Airbnb friendly"
     ],
     source: "property24",
@@ -500,7 +468,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "115437832",
-    title: "High-Yield Studio in The Duke",
+    title: "0.5 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 1,849,500",
     location: "Cape Town City Centre",
     bedrooms: 0.5,
@@ -509,18 +477,16 @@ export const mockProperties: Property[] = [
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/343347524/Crop600x400",
-      "https://images.prop24.com/343347525/Crop600x400",
-      "https://images.prop24.com/343347526/Crop600x400"
+      "https://images.prop24.com/343347524/Crop600x400"
     ],
-    description: "High-Yield Airbnb Investment – Two Identical Units for Sale. These premium apartments in The Duke generate approximately R300,000 annually per unit through Airbnb.",
+    description: "High-Yield Airbnb Investment – Two Identical Units for Sale. These premium apartments in The Duke generate approximately R300,000 annually per unit through Airbnb, making them an exceptional investment opportunity.",
     features: [
+      "The Duke building",
       "Rooftop communal area",
       "Rooftop pool",
       "Furnished",
-      "City center location",
-      "High rental potential",
-      "Close to restaurants"
+      "Prime City Centre location",
+      "High potential Airbnb investment"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115437832",
@@ -529,7 +495,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "115488888",
-    title: "Profitable Studio in The Duke",
+    title: "0.5 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 1,849,500",
     location: "Cape Town City Centre",
     bedrooms: 0.5,
@@ -538,18 +504,16 @@ export const mockProperties: Property[] = [
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/349836494/Crop600x400",
-      "https://images.prop24.com/349836495/Crop600x400",
-      "https://images.prop24.com/349836496/Crop600x400"
+      "https://images.prop24.com/349836494/Crop600x400"
     ],
-    description: "Profitable Airbnb Investment – Two Modern Apartments for Sale in The Duke building.",
+    description: "Profitable Airbnb Investment – Two Modern Apartments for Sale. These stylish apartments in The Duke generate approximately R300,000 annually per unit through Airbnb, offering an excellent return on investment.",
     features: [
-      "The Duke building",
+      "The Duke development",
+      "Potential Airbnb investment property",
       "Rooftop communal space",
       "Rooftop pool",
-      "High-end finishes",
-      "City view",
-      "Airbnb investment"
+      "Close to Bree Street",
+      "Close to V&A Waterfront"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115488888",
@@ -558,7 +522,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "115285887",
-    title: "4 Bedroom House in Gardens",
+    title: "4 Bedroom House for Sale in Gardens",
     price: "R 5,895,000",
     location: "Gardens, Cape Town",
     bedrooms: 4,
@@ -567,17 +531,15 @@ export const mockProperties: Property[] = [
     type: "House",
     status: "available",
     images: [
-      "https://images.prop24.com/346789012/Crop600x400",
-      "https://images.prop24.com/346789013/Crop600x400",
-      "https://images.prop24.com/346789014/Crop600x400"
+      "https://images.prop24.com/346789012/Crop600x400"
     ],
-    description: "Step into a sanctuary of elegance and light, nestled in the highly sought-after suburb of Gardens. This sunlit, multi-level masterpiece boasts breathtaking views of Table Mountain and the vibrant cityscape.",
+    description: "Step into a sanctuary of elegance and light, nestled in the highly sought-after suburb of Gardens. This sunlit, multi-level masterpiece boasts breathtaking views of Table Mountain and the vibrant cityscape, offering a lifestyle of unparalleled sophistication.",
     features: [
-      "Panoramic Table Mountain views",
-      "Four en-suite bedrooms",
-      "Fireplaces in each bedroom",
-      "Handcrafted terracotta tiles",
+      "Panoramic views of Table Mountain",
+      "3 stories with 4 bedrooms",
+      "Each bedroom has en-suite bathroom",
       "Central courtyard",
+      "Chef's kitchen with premium appliances",
       "Solar geyser"
     ],
     source: "property24",
@@ -587,7 +549,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "115311090",
-    title: "Studio in The Carrington",
+    title: "0.5 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 1,595,000",
     location: "Cape Town City Centre",
     bedrooms: 0.5,
@@ -596,18 +558,16 @@ export const mockProperties: Property[] = [
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/347411552/Crop600x400",
-      "https://images.prop24.com/347411553/Crop600x400",
-      "https://images.prop24.com/347411554/Crop600x400"
+      "https://images.prop24.com/347411552/Crop600x400"
     ],
-    description: "Step into luxury with this modern studio apartment located in The Carrington on Loop Street. Perfectly positioned in the heart of Cape Town's vibrant city centre.",
+    description: "Step into luxury with this modern studio apartment located in The Carrington on Loop Street. Perfectly positioned in the heart of Cape Town's vibrant city centre, this property offers a blend of style, convenience, and exceptional investment potential.",
     features: [
       "Airbnb-friendly",
-      "High-quality finishes",
-      "Functional kitchen",
-      "Rooftop communal area",
-      "24-hour concierge",
-      "Biometric access"
+      "The Carrington building",
+      "Prime Loop Street location",
+      "24-hour concierge services",
+      "Biometric access",
+      "Rooftop communal area"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115311090",
@@ -616,7 +576,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "114942423",
-    title: "1 Bedroom Duplex in The Adderley",
+    title: "1 Bedroom Apartment / Flat for Sale in Cape Town City Centre",
     price: "R 2,895,000",
     location: "Cape Town City Centre",
     bedrooms: 1,
@@ -625,18 +585,16 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/341234567/Crop600x400",
-      "https://images.prop24.com/341234568/Crop600x400",
-      "https://images.prop24.com/341234569/Crop600x400"
+      "https://images.prop24.com/341234567/Crop600x400"
     ],
     description: "Experience the perfect blend of elegance and convenience in this 1-bedroom, 2-bathroom double-story apartment located in the prestigious The Adderley in Cape Town's CBD.",
     features: [
-      "Two secure parking bays",
+      "The Adderley building",
+      "Double-story apartment",
+      "2 secure parking bays",
       "Private storeroom",
-      "Open-plan layout",
       "Rooftop pool",
-      "Well-equipped gym",
-      "No pets allowed"
+      "Well-equipped gym"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/114942423",
@@ -645,7 +603,7 @@ export const mockProperties: Property[] = [
   },
   {
     id: "114046864",
-    title: "Studio Apartment in Woodstock",
+    title: "0.5 Bedroom Apartment / Flat for Sale in Woodstock",
     price: "R 1,350,000",
     location: "Woodstock, Cape Town",
     bedrooms: 0.5,
@@ -654,17 +612,15 @@ export const mockProperties: Property[] = [
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/327464785/Crop600x400",
-      "https://images.prop24.com/327464786/Crop600x400",
-      "https://images.prop24.com/327464787/Crop600x400"
+      "https://images.prop24.com/327464785/Crop600x400"
     ],
     description: "Welcome to your new home in the vibrant neighborhood of Woodstock, Cape Town. This contemporary studio apartment offers an ideal blend of style, convenience, and breathtaking views of Table Mountain.",
     features: [
       "Fully furnished",
       "One parking space",
       "Modern finishes",
+      "Spectacular Table Mountain views",
       "Open-plan layout",
-      "Table Mountain views",
       "Airbnb-friendly"
     ],
     source: "property24",
