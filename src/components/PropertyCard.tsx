@@ -141,17 +141,13 @@ export default function PropertyCard({ property, index = 0 }: PropertyCardProps)
           ) : (
             <Button 
               className="w-full group/btn bg-gradient-to-r from-primary to-primary/80 text-primary-foreground hover:from-primary/90 hover:to-primary/70 shadow-md font-poppins font-semibold tracking-wide transition-all duration-300 hover:scale-[1.02] hover:shadow-lg" 
-              asChild
+              onClick={() => {
+                // Open in new tab using redirect API to avoid referrer issues
+                window.open(`/api/redirect?url=${encodeURIComponent(property.sourceUrl)}`, '_blank');
+              }}
             >
-              <a 
-                href={property.sourceUrl} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="flex items-center justify-center"
-              >
-                View on {property.source === 'property24' ? 'Property24' : 'Private Property'}
-                <ExternalLink className="ml-2 h-4 w-4 group-hover/btn:translate-x-1 transition-transform" />
-              </a>
+              View on {property.source === 'property24' ? 'Property24' : 'Private Property'}
+              <ExternalLink className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
             </Button>
           )}
         </CardFooter>
