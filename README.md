@@ -1,6 +1,6 @@
-# Maingard Properties - Real Estate Website
+# Allie Realty - Real Estate Website
 
-A modern, interactive real estate website showcasing Michael Maingard's luxury property listings from Property24 and PrivateProperty.
+A modern, interactive real estate website showcasing La'eeq Allie's property listings from Property24.
 
 ## 🏡 Features
 
@@ -12,7 +12,7 @@ A modern, interactive real estate website showcasing Michael Maingard's luxury p
 - **Advanced Filtering**: Search by location, property type, status, and bedrooms
 
 ### Agent Profile
-- **Professional Bio**: Detailed information about Michael Maingard
+- **Professional Bio**: Detailed information about La'eeq Allie
 - **Contact Information**: Multiple ways to reach the agent (phone, email, office)
 - **Specializations**: Areas of expertise and service locations
 - **Achievements**: Professional credentials and accomplishments
@@ -103,7 +103,7 @@ Returns all property listings with the following structure:
   "success": true,
   "properties": [...],
   "total": 7,
-  "agent": "Michael Maingard"
+  "agent": "La'eeq Allie"
 }
 ```
 
@@ -113,8 +113,8 @@ Returns agent profile information:
 {
   "success": true,
   "agent": {
-    "name": "Michael Maingard",
-    "title": "Luxury Property Specialist",
+    "name": "La'eeq Allie",
+    "title": "Property Specialist",
     "company": "Greeff Christie's International Real Estate",
     ...
   }
@@ -133,11 +133,11 @@ The website uses a modern design system with:
 
 ## 📊 Property Data
 
-Currently using mock data representing Michael Maingard's actual listings:
-- 7 luxury properties
-- Price range: R2.6M - R95M
-- Locations: Sea Point, Green Point, Camps Bay
-- Property types: Apartments, Studios, Penthouses, Villas
+Currently using data representing La'eeq Allie's actual listings:
+- 22 properties
+- Price range: R1.35M - R6.95M
+- Locations: Cape Town City Centre, Gardens, Woodstock
+- Property types: Studios, Apartments, Houses, Duplexes
 
 ## 🔗 External Links
 
@@ -181,7 +181,7 @@ Potential improvements for production:
 
 ## 📄 License
 
-This project is created for Michael Maingard - Greeff Christie's International Real Estate.
+This project is created for La'eeq Allie - Greeff Christie's International Real Estate.
 
 ---
 
