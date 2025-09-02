@@ -46,19 +46,50 @@ export const mockProperties: Property[] = [
     images: [
       "https://images.prop24.com/363165824/Crop600x400",
       "https://images.prop24.com/363165825/Crop600x400",
-      "https://images.prop24.com/363165826/Crop600x400"
+      "https://images.prop24.com/363165826/Crop600x400",
+      "https://images.prop24.com/363165827/Crop600x400"
     ],
-    description: "Exclusive listing. Perched on one of the higher floors, this apartment offers panoramic views and modern living in the heart of Gardens.",
+    description: "Perched on one of the higher floors, this beautifully positioned one bedroom apartment captures uninterrupted panoramic views and offers modern living in the heart of Gardens.",
     features: [
-      "Exclusive Listing",
       "Higher Floor",
       "Panoramic Views",
       "Modern Living",
       "Gardens Location",
-      "1 Bedroom"
+      "1 Bedroom",
+      "Under Offer"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116338371",
+    agentName: "La'eeq Allie",
+    agentContact: "+27 82 123 4567"
+  },
+  {
+    id: "116134937",
+    title: "4 Bedroom House in Gardens",
+    price: "R 5,895,000",
+    location: "Gardens, Cape Town",
+    bedrooms: 4,
+    bathrooms: 5,
+    area: "175 m²",
+    type: "House",
+    status: "available",
+    images: [
+      "https://images.prop24.com/356438741/Crop600x400",
+      "https://images.prop24.com/356438742/Crop600x400",
+      "https://images.prop24.com/356438743/Crop600x400",
+      "https://images.prop24.com/356438744/Crop600x400"
+    ],
+    description: "Step into a sanctuary of elegance and light, nestled in the highly sought-after suburb of Gardens. This multi-level masterpiece offers luxurious living with breathtaking views.",
+    features: [
+      "4 Bedrooms",
+      "5 Bathrooms",
+      "Multi-level",
+      "Gardens Location",
+      "Luxury Home",
+      "On Show: 02 Sep"
+    ],
+    source: "property24",
+    sourceUrl: "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116134937",
     agentName: "La'eeq Allie",
     agentContact: "+27 82 123 4567"
   },
@@ -67,22 +98,24 @@ export const mockProperties: Property[] = [
     title: "Studio Apartment in Cape Town City Centre",
     price: "R 2,995,000",
     location: "Cape Town City Centre",
-    bedrooms: 0,
+    bedrooms: 0.5,
     bathrooms: 1,
     area: "31 m²",
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/350908862/Crop600x400",
-      "https://images.prop24.com/350908863/Crop600x400"
+      "https://images.prop24.com/362505491/Crop600x400",
+      "https://images.prop24.com/362505492/Crop600x400",
+      "https://images.prop24.com/362505493/Crop600x400"
     ],
-    description: "No transfer duty! Modern studio apartment in the heart of the city. Perfect investment opportunity with excellent rental potential.",
+    description: "Welcome to a beautifully re-imagined boutique development in the heart of Cape Town's vibrant City Bowl. No transfer duty! Perfect investment opportunity.",
     features: [
       "No Transfer Duty",
+      "Exclusive Mandate",
       "City Centre Location",
       "Investment Opportunity",
       "Modern Design",
-      "On Show",
+      "On Show: 03 Sep",
       "Studio Living"
     ],
     source: "property24",
@@ -91,36 +124,37 @@ export const mockProperties: Property[] = [
     agentContact: "+27 82 123 4567"
   },
   {
-    id: "116068819",
-    title: "2 Bedroom House in Woodstock",
-    price: "R 2,250,000",
-    location: "Woodstock, Cape Town",
-    bedrooms: 2,
+    id: "116281167",
+    title: "1 Bedroom Apartment in Cape Town City Centre",
+    price: "R 3,995,000",
+    location: "Cape Town City Centre",
+    bedrooms: 1,
     bathrooms: 1,
-    area: "123 m²",
-    type: "House",
+    area: "49 m²",
+    type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/355723549/Crop600x400",
-      "https://images.prop24.com/355723550/Crop600x400"
+      "https://images.prop24.com/362506741/Crop600x400",
+      "https://images.prop24.com/362506742/Crop600x400",
+      "https://images.prop24.com/362506743/Crop600x400"
     ],
-    description: "Charming 2-bedroom house in trendy Woodstock. Perfect for first-time buyers or investors looking for a property in an up-and-coming area.",
+    description: "Stylish one-bedroom apartment in the heart of the city. No transfer duty! Modern finishes and prime location make this an ideal investment.",
     features: [
-      "2 Bedrooms",
-      "Woodstock Location",
-      "On Show",
-      "Investment Potential",
-      "Trendy Area",
-      "Freehold"
+      "No Transfer Duty",
+      "1 Bedroom",
+      "City Centre",
+      "Modern Finishes",
+      "On Show: 03 Sep",
+      "Investment Ready"
     ],
     source: "property24",
-    sourceUrl: "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/116068819",
+    sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281167",
     agentName: "La'eeq Allie",
     agentContact: "+27 82 123 4567"
   },
   {
     id: "116282958",
-    title: "Exclusive Sole Mandate in Upper Woodstock",
+    title: "2 Bedroom House in Woodstock",
     price: "R 2,695,000",
     location: "Woodstock, Cape Town",
     bedrooms: 2,
@@ -129,8 +163,9 @@ export const mockProperties: Property[] = [
     type: "House",
     status: "available",
     images: [
-      "https://images.prop24.com/355723549/Crop600x400",
-      "https://images.prop24.com/355723550/Crop600x400"
+      "https://images.prop24.com/362974581/Crop600x400",
+      "https://images.prop24.com/362974582/Crop600x400",
+      "https://images.prop24.com/362974583/Crop600x400"
     ],
     description: "Exclusive Sole Mandate. Tucked away on Balfour Street in Upper Woodstock, this property offers character and potential in a sought-after location.",
     features: [
@@ -157,17 +192,18 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/363165824/Crop600x400",
-      "https://images.prop24.com/363165825/Crop600x400"
+      "https://images.prop24.com/362506931/Crop600x400",
+      "https://images.prop24.com/362506932/Crop600x400",
+      "https://images.prop24.com/362506933/Crop600x400"
     ],
-    description: "Exclusive mandate. Step into a thoughtfully designed 1-bedroom apartment with modern finishes and city views. No transfer duty!",
+    description: "Step into a thoughtfully designed 1-bedroom apartment with modern finishes and city views. No transfer duty!",
     features: [
-      "Exclusive Mandate",
       "No Transfer Duty",
       "Modern Design",
       "City Views",
-      "On Show",
-      "Prime Location"
+      "On Show: 03 Sep",
+      "Prime Location",
+      "1 Bedroom"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281209",
@@ -185,8 +221,9 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "under-offer",
     images: [
-      "https://images.prop24.com/350908862/Crop600x400",
-      "https://images.prop24.com/350908863/Crop600x400"
+      "https://images.prop24.com/363736991/Crop600x400",
+      "https://images.prop24.com/363736992/Crop600x400",
+      "https://images.prop24.com/363736993/Crop600x400"
     ],
     description: "Exclusive Dual Mandate. Located on a quiet and secure street in the heart of Gardens, this apartment offers peaceful city living.",
     features: [
@@ -213,17 +250,19 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "available",
     images: [
-      "https://images.prop24.com/355723549/Crop600x400",
-      "https://images.prop24.com/355723550/Crop600x400"
+      "https://images.prop24.com/362505861/Crop600x400",
+      "https://images.prop24.com/362505862/Crop600x400",
+      "https://images.prop24.com/362505863/Crop600x400",
+      "https://images.prop24.com/362505864/Crop600x400"
     ],
-    description: "Exclusive mandate. Located in the vibrant Citybowl precinct, this immaculate penthouse offers the perfect balance of luxury and urban living. No transfer duty!",
+    description: "Located in the vibrant Citybowl precinct, this immaculate penthouse offers the perfect balance of luxury and urban living. No transfer duty!",
     features: [
-      "Exclusive Mandate",
       "No Transfer Duty",
       "Penthouse",
       "Luxury Living",
       "City Bowl",
-      "2.5 Bathrooms"
+      "2.5 Bathrooms",
+      "On Show: 03 Sep"
     ],
     source: "property24",
     sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116280871",
@@ -232,17 +271,18 @@ export const mockProperties: Property[] = [
   },
   {
     id: "116283204",
-    title: "Brand New Studio in Cape Town City Centre",
+    title: "Studio Apartment in Cape Town City Centre",
     price: "R 1,950,000",
     location: "Cape Town City Centre",
-    bedrooms: 0,
+    bedrooms: 0.5,
     bathrooms: 1,
     area: "25 m²",
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/363165824/Crop600x400",
-      "https://images.prop24.com/363165825/Crop600x400"
+      "https://images.prop24.com/362978431/Crop600x400",
+      "https://images.prop24.com/362978432/Crop600x400",
+      "https://images.prop24.com/362978433/Crop600x400"
     ],
     description: "No transfer duty! This never-before-owned studio apartment is a compact yet beautifully crafted space, ideal for buyers seeking a low-maintenance city lifestyle.",
     features: [
@@ -251,6 +291,7 @@ export const mockProperties: Property[] = [
       "Studio",
       "Low Maintenance",
       "City Centre",
+      "On Show: 03 Sep",
       "Investment Ready"
     ],
     source: "property24",
@@ -259,18 +300,164 @@ export const mockProperties: Property[] = [
     agentContact: "+27 82 123 4567"
   },
   {
+    id: "116226593",
+    title: "2 Bedroom Apartment in Gardens",
+    price: "R 4,195,000",
+    location: "Gardens, Cape Town",
+    bedrooms: 2,
+    bathrooms: 1,
+    area: "89 m²",
+    type: "Apartment",
+    status: "available",
+    images: [
+      "https://images.prop24.com/361421201/Crop600x400",
+      "https://images.prop24.com/361421202/Crop600x400",
+      "https://images.prop24.com/361421203/Crop600x400"
+    ],
+    description: "Beautifully renovated 2-bedroom apartment in Nelsons View, Gardens. Stunning city and mountain views with modern finishes throughout.",
+    features: [
+      "Renovated",
+      "Nelsons View",
+      "2 Bedrooms",
+      "Gardens Location",
+      "Mountain Views",
+      "On Show: 03 Sep"
+    ],
+    source: "property24",
+    sourceUrl: "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116226593",
+    agentName: "La'eeq Allie",
+    agentContact: "+27 82 123 4567"
+  },
+  {
+    id: "116220646",
+    title: "Studio Apartment in Cape Town City Centre",
+    price: "R 1,699,999",
+    location: "Cape Town City Centre",
+    bedrooms: 0.5,
+    bathrooms: 1,
+    area: "42 m²",
+    type: "Studio",
+    status: "available",
+    images: [
+      "https://images.prop24.com/361144581/Crop600x400",
+      "https://images.prop24.com/361144582/Crop600x400",
+      "https://images.prop24.com/361144583/Crop600x400"
+    ],
+    description: "Charming studio apartment in the historic Company Gardens district. Perfect for city living with easy access to all amenities.",
+    features: [
+      "Historic District",
+      "Company Gardens",
+      "Studio Living",
+      "City Centre",
+      "Investment Opportunity",
+      "Walk to Everything"
+    ],
+    source: "property24",
+    sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116220646",
+    agentName: "La'eeq Allie",
+    agentContact: "+27 82 123 4567"
+  },
+  {
+    id: "116200162",
+    title: "1 Bedroom Apartment in Cape Town City Centre",
+    price: "R 1,799,999",
+    location: "Cape Town City Centre",
+    bedrooms: 1,
+    bathrooms: 1,
+    area: "53 m²",
+    type: "Apartment",
+    status: "available",
+    images: [
+      "https://images.prop24.com/360417821/Crop600x400",
+      "https://images.prop24.com/360417822/Crop600x400",
+      "https://images.prop24.com/360417823/Crop600x400"
+    ],
+    description: "Airbnb-friendly one-bedroom apartment in the heart of the city. Excellent investment potential with strong rental demand.",
+    features: [
+      "Airbnb-Friendly",
+      "1 Bedroom",
+      "Investment Property",
+      "City Centre",
+      "On Show: 02 Sep",
+      "High Rental Demand"
+    ],
+    source: "property24",
+    sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116200162",
+    agentName: "La'eeq Allie",
+    agentContact: "+27 82 123 4567"
+  },
+  {
+    id: "116216202",
+    title: "1 Bedroom Apartment in Mutual Heights",
+    price: "R 1,850,000",
+    location: "Cape Town City Centre",
+    bedrooms: 1,
+    bathrooms: 1,
+    area: "61 m²",
+    type: "Apartment",
+    status: "under-offer",
+    images: [
+      "https://images.prop24.com/360913421/Crop600x400",
+      "https://images.prop24.com/360913422/Crop600x400",
+      "https://images.prop24.com/360913423/Crop600x400"
+    ],
+    description: "Iconic Mutual Heights building. Art Deco charm meets modern convenience in this well-positioned one-bedroom apartment.",
+    features: [
+      "Mutual Heights",
+      "Art Deco Building",
+      "1 Bedroom",
+      "Under Offer",
+      "Historic Building",
+      "City Centre"
+    ],
+    source: "property24",
+    sourceUrl: "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116216202",
+    agentName: "La'eeq Allie",
+    agentContact: "+27 82 123 4567"
+  },
+  {
+    id: "116155994",
+    title: "2 Bedroom House in Woodstock",
+    price: "R 2,250,000",
+    location: "Woodstock, Cape Town",
+    bedrooms: 2,
+    bathrooms: 2,
+    area: "120 m²",
+    type: "House",
+    status: "available",
+    images: [
+      "https://images.prop24.com/359241701/Crop600x400",
+      "https://images.prop24.com/359241702/Crop600x400",
+      "https://images.prop24.com/359241703/Crop600x400"
+    ],
+    description: "Character-filled Victorian home in the heart of Woodstock. Original features preserved with modern updates throughout.",
+    features: [
+      "Victorian Home",
+      "2 Bedrooms",
+      "2 Bathrooms",
+      "Character Features",
+      "Woodstock",
+      "Investment Potential"
+    ],
+    source: "property24",
+    sourceUrl: "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/116155994",
+    agentName: "La'eeq Allie",
+    agentContact: "+27 82 123 4567"
+  },
+  {
     id: "115843150",
     title: "Investment Studio in Cape Town City Centre",
     price: "R 1,895,000",
     location: "Cape Town City Centre",
-    bedrooms: 0,
+    bedrooms: 0.5,
     bathrooms: 1,
     area: "33 m²",
     type: "Studio",
     status: "available",
     images: [
-      "https://images.prop24.com/350908862/Crop600x400",
-      "https://images.prop24.com/350908863/Crop600x400"
+      "https://images.prop24.com/355601231/Crop600x400",
+      "https://images.prop24.com/355601232/Crop600x400",
+      "https://images.prop24.com/355601233/Crop600x400"
     ],
     description: "Exclusive mandate. Generating R370,000 of revenue in the past 12 months, this stunning investment studio could be yours today. Prime Airbnb opportunity!",
     features: [
@@ -297,8 +484,9 @@ export const mockProperties: Property[] = [
     type: "Apartment",
     status: "sold",
     images: [
-      "https://images.prop24.com/355723549/Crop600x400",
-      "https://images.prop24.com/355723550/Crop600x400"
+      "https://images.prop24.com/353271841/Crop600x400",
+      "https://images.prop24.com/353271842/Crop600x400",
+      "https://images.prop24.com/353271843/Crop600x400"
     ],
     description: "SOLD! Discover luxury urban living in this beautifully renovated and stylishly furnished one-bedroom apartment in the iconic 16 on Bree building.",
     features: [
