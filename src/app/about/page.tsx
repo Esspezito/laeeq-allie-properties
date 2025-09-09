@@ -10,7 +10,7 @@ import { Badge } from '@/components/ui/badge';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Separator } from '@/components/ui/separator';
 import { motion } from 'framer-motion';
-import { Phone, Mail, MapPin, Award, Building, Target, Users } from 'lucide-react';
+import { Phone, Mail, MapPin, Award, Building, Target, Users, Star, Quote } from 'lucide-react';
 import Image from 'next/image';
 
 export default function AboutPage() {
@@ -234,6 +234,220 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* Testimonials Section */}
+      <section className="py-16 bg-muted/30">
+        <div className="container mx-auto px-4">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            className="max-w-6xl mx-auto"
+          >
+            <h2 className="text-3xl font-bold mb-12 text-center">What Clients Say</h2>
+            
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: 0.1 }}
+              >
+                <Card className="h-full">
+                  <CardContent className="p-6">
+                    <div className="flex items-center mb-4">
+                      <div className="flex text-yellow-400">
+                        {[...Array(5)].map((_, i) => (
+                          <Star key={i} className="h-4 w-4 fill-current" />
+                        ))}
+                      </div>
+                    </div>
+                    <Quote className="h-6 w-6 text-muted-foreground mb-3" />
+                    <p className="text-muted-foreground mb-4">
+                      "La'eeq made the entire property buying process seamless. His deep knowledge of the City Bowl area and professional approach made all the difference. Highly recommend!"
+                    </p>
+                    <div className="flex items-center">
+                      <Avatar className="h-10 w-10 mr-3">
+                        <AvatarImage src="/api/placeholder/40/40" />
+                        <AvatarFallback>SM</AvatarFallback>
+                      </Avatar>
+                      <div>
+                        <p className="font-semibold text-sm">Sarah M.</p>
+                        <p className="text-xs text-muted-foreground">Apartment Buyer, City Centre</p>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </motion.div>
+
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: 0.2 }}
+              >
+                <Card className="h-full">
+                  <CardContent className="p-6">
+                    <div className="flex items-center mb-4">
+                      <div className="flex text-yellow-400">
+                        {[...Array(5)].map((_, i) => (
+                          <Star key={i} className="h-4 w-4 fill-current" />
+                        ))}
+                      </div>
+                    </div>
+                    <Quote className="h-6 w-6 text-muted-foreground mb-3" />
+                    <p className="text-muted-foreground mb-4">
+                      "Exceptional service from start to finish. La'eeq understood exactly what we were looking for and found us the perfect investment property in Woodstock. His market insights were invaluable."
+                    </p>
+                    <div className="flex items-center">
+                      <Avatar className="h-10 w-10 mr-3">
+                        <AvatarImage src="/api/placeholder/40/40" />
+                        <AvatarFallback>DK</AvatarFallback>
+                      </Avatar>
+                      <div>
+                        <p className="font-semibold text-sm">David K.</p>
+                        <p className="text-xs text-muted-foreground">Property Investor, Woodstock</p>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </motion.div>
+
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: 0.3 }}
+              >
+                <Card className="h-full">
+                  <CardContent className="p-6">
+                    <div className="flex items-center mb-4">
+                      <div className="flex text-yellow-400">
+                        {[...Array(5)].map((_, i) => (
+                          <Star key={i} className="h-4 w-4 fill-current" />
+                        ))}
+                      </div>
+                    </div>
+                    <Quote className="h-6 w-6 text-muted-foreground mb-3" />
+                    <p className="text-muted-foreground mb-4">
+                      "La'eeq's attention to detail and personalized approach made selling our Gardens apartment stress-free. His Christie's network brought serious international buyers quickly."
+                    </p>
+                    <div className="flex items-center">
+                      <Avatar className="h-10 w-10 mr-3">
+                        <AvatarImage src="/api/placeholder/40/40" />
+                        <AvatarFallback>RT</AvatarFallback>
+                      </Avatar>
+                      <div>
+                        <p className="font-semibold text-sm">Rachel T.</p>
+                        <p className="text-xs text-muted-foreground">Seller, Gardens</p>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </motion.div>
+
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: 0.4 }}
+              >
+                <Card className="h-full">
+                  <CardContent className="p-6">
+                    <div className="flex items-center mb-4">
+                      <div className="flex text-yellow-400">
+                        {[...Array(5)].map((_, i) => (
+                          <Star key={i} className="h-4 w-4 fill-current" />
+                        ))}
+                      </div>
+                    </div>
+                    <Quote className="h-6 w-6 text-muted-foreground mb-3" />
+                    <p className="text-muted-foreground mb-4">
+                      "As first-time buyers, we were nervous about the process. La'eeq guided us every step of the way with patience and expertise. We couldn't be happier with our new home!"
+                    </p>
+                    <div className="flex items-center">
+                      <Avatar className="h-10 w-10 mr-3">
+                        <AvatarImage src="/api/placeholder/40/40" />
+                        <AvatarFallback>AP</AvatarFallback>
+                      </Avatar>
+                      <div>
+                        <p className="font-semibold text-sm">Alex P.</p>
+                        <p className="text-xs text-muted-foreground">First-time Buyer, De Waterkant</p>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </motion.div>
+
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: 0.5 }}
+              >
+                <Card className="h-full">
+                  <CardContent className="p-6">
+                    <div className="flex items-center mb-4">
+                      <div className="flex text-yellow-400">
+                        {[...Array(5)].map((_, i) => (
+                          <Star key={i} className="h-4 w-4 fill-current" />
+                        ))}
+                      </div>
+                    </div>
+                    <Quote className="h-6 w-6 text-muted-foreground mb-3" />
+                    <p className="text-muted-foreground mb-4">
+                      "La'eeq's market knowledge is outstanding. He identified the perfect studio apartment for my Airbnb investment and negotiated a great deal. Truly professional service."
+                    </p>
+                    <div className="flex items-center">
+                      <Avatar className="h-10 w-10 mr-3">
+                        <AvatarImage src="/api/placeholder/40/40" />
+                        <AvatarFallback>MH</AvatarFallback>
+                      </Avatar>
+                      <div>
+                        <p className="font-semibold text-sm">Maria H.</p>
+                        <p className="text-xs text-muted-foreground">Airbnb Investor, City Centre</p>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </motion.div>
+
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: 0.6 }}
+              >
+                <Card className="h-full">
+                  <CardContent className="p-6">
+                    <div className="flex items-center mb-4">
+                      <div className="flex text-yellow-400">
+                        {[...Array(5)].map((_, i) => (
+                          <Star key={i} className="h-4 w-4 fill-current" />
+                        ))}
+                      </div>
+                    </div>
+                    <Quote className="h-6 w-6 text-muted-foreground mb-3" />
+                    <p className="text-muted-foreground mb-4">
+                      "Working with La'eeq was a pleasure. His communication was excellent, and he went above and beyond to ensure our property sale was completed efficiently. Highly recommended!"
+                    </p>
+                    <div className="flex items-center">
+                      <Avatar className="h-10 w-10 mr-3">
+                        <AvatarImage src="/api/placeholder/40/40" />
+                        <AvatarFallback>JL</AvatarFallback>
+                      </Avatar>
+                      <div>
+                        <p className="font-semibold text-sm">James L.</p>
+                        <p className="text-xs text-muted-foreground">Seller, Vredehoek</p>
+                      </div>
+                    </div>
+                  </CardContent>
+                </Card>
+              </motion.div>
+            </div>
+          </motion.div>
+        </div>
+      </section>
+
       {/* CTA Section */}
       <section className="py-16 bg-primary text-primary-foreground">
         <div className="container mx-auto px-4 text-center">
@@ -264,9 +478,6 @@ export default function AboutPage() {
           <div className="text-center">
             <p className="text-muted-foreground">
               © 2024 {agentProfile.name} - {agentProfile.company}
-            </p>
-            <p className="text-sm text-muted-foreground mt-2">
-              All listings sourced from Property24.com and PrivateProperty.co.za
             </p>
           </div>
         </div>

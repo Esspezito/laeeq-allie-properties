@@ -1,10 +1,11 @@
 "use client";
 
+import { useState } from 'react';
 import { Property } from '@/types/property';
 import { Card, CardContent, CardFooter } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
-import { Bed, Bath, Maximize2, MapPin, ExternalLink } from 'lucide-react';
+import { Bed, Bath, Maximize2, MapPin, ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
@@ -15,10 +16,22 @@ interface PropertyCardProps {
 }
 
 export default function PropertyCard({ property, index = 0 }: PropertyCardProps) {
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  
   const statusColors = {
     'available': 'bg-green-500',
     'under-offer': 'bg-yellow-500',
     'sold': 'bg-red-500'
+  };
+
+  const nextImage = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    setCurrentImageIndex((prev) => (prev + 1) % property.images.length);
+  };
+
+  const prevImage = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    setCurrentImageIndex((prev) => (prev - 1 + property.images.length) % property.images.length);
   };
 
   return (
@@ -43,8 +56,8 @@ export default function PropertyCard({ property, index = 0 }: PropertyCardProps)
       <Card className="overflow-hidden h-full flex flex-col group cursor-pointer">
         <div className="relative h-64 overflow-hidden">
           <Image
-            src={property.images[0]}
-            alt={property.title}
+            src={property.images[currentImageIndex]}
+            alt={`${property.title} - Image ${currentImageIndex + 1}`}
             fill
             className="object-cover group-hover:scale-110 transition-transform duration-500"
           />
@@ -53,9 +66,34 @@ export default function PropertyCard({ property, index = 0 }: PropertyCardProps)
               {property.status === 'under-offer' ? 'Under Offer' : property.status === 'sold' ? 'SOLD' : 'Available'}
             </Badge>
             <Badge variant="secondary" className="bg-black/80 text-white border-white/20">
-              {property.source === 'property24' ? 'Property24' : 'Private Property'}
+              {property.source === 'property24' ? 'Property24' : property.source === 'greeff' ? 'Greeff' : 'Private Property'}
             </Badge>
           </div>
+          
+          {/* Image counter */}
+          {property.images.length > 1 && (
+            <div className="absolute top-4 right-4 bg-black/70 text-white px-2 py-1 rounded text-xs font-medium">
+              {currentImageIndex + 1} / {property.images.length}
+            </div>
+          )}
+          
+          {/* Navigation arrows */}
+          {property.images.length > 1 && (
+            <>
+              <button
+                onClick={prevImage}
+                className="absolute left-2 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white p-2 rounded-full transition-all duration-200 opacity-0 group-hover:opacity-100 z-20"
+              >
+                <ChevronLeft className="h-4 w-4" />
+              </button>
+              <button
+                onClick={nextImage}
+                className="absolute right-2 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white p-2 rounded-full transition-all duration-200 opacity-0 group-hover:opacity-100 z-20"
+              >
+                <ChevronRight className="h-4 w-4" />
+              </button>
+            </>
+          )}
           {property.status === 'sold' && (
             <div className="absolute inset-0 bg-black/50 flex items-center justify-center">
               <div className="bg-red-600 text-white px-8 py-3 rounded-lg rotate-[-15deg] text-2xl font-bold shadow-lg">
@@ -137,7 +175,7 @@ export default function PropertyCard({ property, index = 0 }: PropertyCardProps)
                 window.open(`/api/redirect?url=${encodeURIComponent(property.sourceUrl)}`, '_blank');
               }}
             >
-              View on {property.source === 'property24' ? 'Property24' : 'Private Property'}
+              View on {property.source === 'property24' ? 'Property24' : property.source === 'greeff' ? 'Greeff' : 'Private Property'}
               <ExternalLink className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
             </Button>
           )}

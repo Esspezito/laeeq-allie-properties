@@ -11,7 +11,7 @@ export interface Property {
   images: string[];
   description?: string;
   features?: string[];
-  source: 'property24' | 'privateproperty';
+  source: 'property24' | 'privateproperty' | 'greeff';
   sourceUrl: string;
   agentName?: string;
   agentContact?: string;

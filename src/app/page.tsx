@@ -234,9 +234,6 @@ export default function Home() {
             <p className="text-muted-foreground">
               © 2024 {agentProfile.name} - {agentProfile.company}
             </p>
-            <p className="text-sm text-muted-foreground mt-2">
-              All listings sourced from Property24.com and PrivateProperty.co.za
-            </p>
           </div>
         </div>
       </footer>
