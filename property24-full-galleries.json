@@ -1,0 +1,842 @@
+{
+  "timestamp": "2025-09-21T20:03:44.718Z",
+  "agent": "La'eeq Allie",
+  "totalProperties": 31,
+  "properties": [
+    {
+      "id": "116455279",
+      "title": "3 Bedroom Apartment in Cape Town City Centre",
+      "price": "R 12 995 000",
+      "location": "Cape Town City Centre",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": "173 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_fullscreen.svg?z=8e742410d37523a0c937",
+        "https://www.property24.com/blank.gif",
+        "https://images.prop24.com/365456846/Ensure1280x720",
+        "https://images.prop24.com/365456849/Ensure1280x720",
+        "https://www.property24.com/Content/images/Optimized/loading.gif?z=06483dd6d616a2608023",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1",
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_close_white.svg?z=021afab086e6969eed35",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-plus.svg?z=891b682b8bf9b9b0df74",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-minus.svg?z=870686279263ef7efd42",
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/black_320x213.png?z=f87cf224c1c467755ae1"
+      ],
+      "description": "Beautiful 3 bedroom apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116455279",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116455489",
+      "title": "3 Bedroom Apartment in Cape Town City Centre",
+      "price": "R 12 995 000",
+      "location": "Cape Town City Centre",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": "172 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_fullscreen.svg?z=8e742410d37523a0c937",
+        "https://www.property24.com/blank.gif",
+        "https://images.prop24.com/365460435/Ensure1280x720",
+        "https://images.prop24.com/365460436/Ensure1280x720",
+        "https://www.property24.com/Content/images/Optimized/loading.gif?z=06483dd6d616a2608023",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1",
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_close_white.svg?z=021afab086e6969eed35",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-plus.svg?z=891b682b8bf9b9b0df74",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-minus.svg?z=870686279263ef7efd42",
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/black_320x213.png?z=f87cf224c1c467755ae1"
+      ],
+      "description": "Beautiful 3 bedroom apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116455489",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116455093",
+      "title": "2 Bedroom Apartment in Cape Town City Centre",
+      "price": "R 4 500 000",
+      "location": "Cape Town City Centre",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": "88 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_fullscreen.svg?z=8e742410d37523a0c937",
+        "https://www.property24.com/blank.gif",
+        "https://images.prop24.com/365453847/Ensure1280x720",
+        "https://images.prop24.com/365453848/Ensure1280x720",
+        "https://www.property24.com/Content/images/Optimized/loading.gif?z=06483dd6d616a2608023",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1",
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_close_white.svg?z=021afab086e6969eed35",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-plus.svg?z=891b682b8bf9b9b0df74",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-minus.svg?z=870686279263ef7efd42",
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/black_320x213.png?z=f87cf224c1c467755ae1"
+      ],
+      "description": "Beautiful 2 bedroom apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116455093",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116439140",
+      "title": "2 Bedroom Apartment in Gardens",
+      "price": "R 6 250 000",
+      "location": "Gardens",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": "92 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_fullscreen.svg?z=8e742410d37523a0c937",
+        "https://www.property24.com/blank.gif",
+        "https://images.prop24.com/365167323/Ensure1280x720",
+        "https://images.prop24.com/365167325/Ensure1280x720",
+        "https://www.property24.com/Content/images/Optimized/loading.gif?z=06483dd6d616a2608023",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1",
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_close_white.svg?z=021afab086e6969eed35",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-plus.svg?z=891b682b8bf9b9b0df74",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-minus.svg?z=870686279263ef7efd42",
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/black_320x213.png?z=f87cf224c1c467755ae1"
+      ],
+      "description": "Beautiful 2 bedroom apartment in Gardens with modern finishes and stunning views.",
+      "features": [
+        "Table Mountain Views",
+        "Company Gardens",
+        "Kloof Street",
+        "Premium Location"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116439140",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116441627",
+      "title": "5 Bedroom Apartment in Cape Town City Centre",
+      "price": "R 3 300 000",
+      "location": "Cape Town City Centre",
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": "32 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_fullscreen.svg?z=8e742410d37523a0c937",
+        "https://www.property24.com/blank.gif",
+        "https://images.prop24.com/365215817/Ensure1280x720",
+        "https://images.prop24.com/365215818/Ensure1280x720",
+        "https://www.property24.com/Content/images/Optimized/loading.gif?z=06483dd6d616a2608023",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1",
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_close_white.svg?z=021afab086e6969eed35",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-plus.svg?z=891b682b8bf9b9b0df74",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-minus.svg?z=870686279263ef7efd42",
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/black_320x213.png?z=f87cf224c1c467755ae1"
+      ],
+      "description": "Beautiful 5 bedroom apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116441627",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116441202",
+      "title": "5 Bedroom Apartment in Cape Town City Centre",
+      "price": "R 2 375 000",
+      "location": "Cape Town City Centre",
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": "39 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_fullscreen.svg?z=8e742410d37523a0c937",
+        "https://www.property24.com/blank.gif",
+        "https://images.prop24.com/365208392/Ensure1280x720",
+        "https://images.prop24.com/365208393/Ensure1280x720",
+        "https://www.property24.com/Content/images/Optimized/loading.gif?z=06483dd6d616a2608023",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1",
+        "https://www.property24.com/Content/images/Optimized/Icons/icon_close_white.svg?z=021afab086e6969eed35",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-plus.svg?z=891b682b8bf9b9b0df74",
+        "https://www.property24.com/Content/images/Optimized/Icons/search-minus.svg?z=870686279263ef7efd42",
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/black_320x213.png?z=f87cf224c1c467755ae1"
+      ],
+      "description": "Beautiful 5 bedroom apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116441202",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116223544",
+      "title": "Listing not found",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116223544",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116441599",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116441599",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116338371",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Gardens",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Gardens with modern finishes and stunning views.",
+      "features": [
+        "Table Mountain Views",
+        "Company Gardens",
+        "Kloof Street",
+        "Premium Location"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116338371",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116280718",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116280718",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116281167",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281167",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116282958",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Woodstock",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Woodstock with modern finishes and stunning views.",
+      "features": [
+        "Trendy Location",
+        "Art District",
+        "Investment Potential",
+        "Close to Amenities"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/116282958",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116281209",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281209",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116296190",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Gardens",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Gardens with modern finishes and stunning views.",
+      "features": [
+        "Table Mountain Views",
+        "Company Gardens",
+        "Kloof Street",
+        "Premium Location"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116296190",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116280871",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116280871",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116226593",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Gardens",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Gardens with modern finishes and stunning views.",
+      "features": [
+        "Table Mountain Views",
+        "Company Gardens",
+        "Kloof Street",
+        "Premium Location"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116226593",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116283204",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116283204",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116220646",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116220646",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116200162",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116200162",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116216202",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116216202",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116155994",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Woodstock",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Woodstock with modern finishes and stunning views.",
+      "features": [
+        "Trendy Location",
+        "Art District",
+        "Investment Potential",
+        "Close to Amenities"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/116155994",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115943244",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115943244",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115843150",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115843150",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115629416",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115629416",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115437832",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115437832",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115285887",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Gardens",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Gardens with modern finishes and stunning views.",
+      "features": [
+        "Table Mountain Views",
+        "Company Gardens",
+        "Kloof Street",
+        "Premium Location"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/115285887",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115488888",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115488888",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116151599",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116151599",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115311090",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115311090",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "114942423",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Cape Town City Centre",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Cape Town City Centre with modern finishes and stunning views.",
+      "features": [
+        "City Views",
+        "V&A Waterfront Access",
+        "Public Transport",
+        "Shopping Centers"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/114942423",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "114046864",
+      "title": "Server unavailable",
+      "price": "POA",
+      "location": "Woodstock",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "area": "50 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop"
+      ],
+      "description": "Beautiful studio apartment in Woodstock with modern finishes and stunning views.",
+      "features": [
+        "Trendy Location",
+        "Art District",
+        "Investment Potential",
+        "Close to Amenities"
+      ],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/114046864",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    }
+  ]
+}
