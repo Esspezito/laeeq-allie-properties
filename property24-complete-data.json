@@ -1,0 +1,635 @@
+{
+  "timestamp": "2025-09-21T16:42:10.868Z",
+  "agent": "La'eeq Allie",
+  "company": "Greeff Christie's International Real Estate",
+  "totalProperties": 31,
+  "successfulScrapes": 6,
+  "properties": [
+    {
+      "id": "116455279",
+      "title": "Property in Cape Town",
+      "price": "R 12 995 000",
+      "location": "Contact agents for street address",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": "173 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1"
+      ],
+      "description": "R 12 995 000\n                |\n                3 Bedroom Apartment / flat for sale in Cape Town City Centre",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116455279",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116455489",
+      "title": "Property in Cape Town",
+      "price": "R 12 995 000",
+      "location": "Contact agents for street address",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": "172 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1"
+      ],
+      "description": "R 12 995 000\n                |\n                3 Bedroom Apartment / flat for sale in Cape Town City Centre",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116455489",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116455093",
+      "title": "Property in Cape Town",
+      "price": "R 4 500 000",
+      "location": "Contact agents for street address",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": "88 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1"
+      ],
+      "description": "R 4 500 000\n                |\n                2 Bedroom Apartment / flat for sale in Cape Town City Centre",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116455093",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116439140",
+      "title": "Property in Cape Town",
+      "price": "R 6 250 000",
+      "location": "Contact agents for street address",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": "92 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1"
+      ],
+      "description": "R 6 250 000\n                |\n                2 Bedroom Apartment / flat for sale in Gardens",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116439140",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116441627",
+      "title": "Property in Cape Town",
+      "price": "R 3 300 000",
+      "location": "Contact agents for street address",
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": "32 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1"
+      ],
+      "description": "R 3 300 000\n                |\n                0.5 Bedroom Apartment / flat for sale in Cape Town City Centre",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116441627",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116441202",
+      "title": "Property in Cape Town",
+      "price": "R 2 375 000",
+      "location": "Contact agents for street address",
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": "39 m²",
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "https://www.property24.com/Content/images/Optimized/Icons/grid_icon_clean.svg?z=55f691d3f5ec1971df80",
+        "https://www.property24.com/Content/images/NoImage/grey_320x213.png?z=dad4383b82e1196655f1"
+      ],
+      "description": "R 2 375 000\n                |\n                0.5 Bedroom Apartment / flat for sale in Cape Town City Centre",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116441202",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116223544",
+      "title": "Property in Cape Town",
+      "price": "For SaleFor SaleTo RentSold PricesDevelopmentsEstate AgenciesAttorneyTrendsNewsRecently SearchedSearch",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116223544",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116441599",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116441599",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116338371",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116338371",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116280718",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116280718",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116281167",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281167",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116282958",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/116282958",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116281209",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281209",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116296190",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116296190",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116280871",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116280871",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116226593",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116226593",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116283204",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116283204",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116220646",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116220646",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116200162",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116200162",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116216202",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116216202",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116155994",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/116155994",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115943244",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115943244",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115843150",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115843150",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115629416",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115629416",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115437832",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115437832",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115285887",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/115285887",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115488888",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115488888",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "116151599",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116151599",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "115311090",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115311090",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "114942423",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/114942423",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    },
+    {
+      "id": "114046864",
+      "title": "Property in Cape Town",
+      "price": "POA",
+      "location": "Cape Town",
+      "bedrooms": null,
+      "bathrooms": null,
+      "area": null,
+      "type": "Apartment",
+      "status": "available",
+      "images": [
+        "/placeholder.jpg"
+      ],
+      "description": "",
+      "features": [],
+      "source": "property24",
+      "sourceUrl": "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/114046864",
+      "agentName": "La'eeq Allie",
+      "agentContact": "+27 82 123 4567"
+    }
+  ]
+}
