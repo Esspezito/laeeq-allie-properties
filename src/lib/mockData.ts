@@ -45,21 +45,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365598971/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -88,22 +74,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365573469/Ensure1280x720"
     ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -134,23 +105,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365573471/Ensure1280x720"
     ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -181,24 +136,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365573467/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -227,21 +165,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365543580/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 250 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
@@ -271,22 +195,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365549295/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 300 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -315,23 +224,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365549293/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 375 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -360,24 +253,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365549297/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 7 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -407,21 +283,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365340123/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 8 900 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -451,22 +313,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365414567/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
@@ -497,23 +344,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365301234/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -542,24 +373,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365305678/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
     "features": [
@@ -588,21 +402,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365302345/Ensure1280x720"
     ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 800 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -631,22 +431,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365302789/Ensure1280x720"
     ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -675,23 +460,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365329012/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 800 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
@@ -720,24 +489,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365301567/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 5 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -767,21 +519,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365201234/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 200 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
@@ -811,22 +549,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365306789/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 7 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -856,23 +579,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365195432/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 8 900 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -902,24 +609,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365175678/Ensure1280x720"
     ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -950,21 +640,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365191234/Ensure1280x720"
     ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -993,22 +669,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365120456/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
     "features": [
@@ -1037,23 +698,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/365425678/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 800 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -1082,24 +727,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/364987654/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -1128,21 +756,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/364654321/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 800 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -1171,22 +785,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/364876543/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 5 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -1216,23 +815,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/364456789/Ensure1280x720"
     ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -1262,24 +845,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/364298765/Ensure1280x720"
     ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 7 500 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
@@ -1309,21 +875,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/364512345/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 8 900 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -1353,22 +905,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/364334567/Ensure1280x720"
     ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -1399,23 +936,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/363965432/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
@@ -1444,24 +965,7 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1555400092-aa3baafce1be?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607688960-e095ff2c4043?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=1440&h=900&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1440&h=900&fit=crop&q=80"
+      "https://images.prop24.com/363076543/Ensure1280x720"
     ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
     "features": [
