@@ -37,7 +37,7 @@ export const mockProperties: Property[] = [
   {
     "id": "116463618",
     "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 2 750 000",
+    "price": "R 2 375 000",
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
@@ -47,7 +47,7 @@ export const mockProperties: Property[] = [
     "images": [
       "https://images.prop24.com/365598971/Ensure1280x720"
     ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 375 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -65,18 +65,18 @@ export const mockProperties: Property[] = [
   },
   {
     "id": "116455279",
-    "title": "3 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 12 995 000",
+    "title": "Studio Apartment for Sale in Cape Town City Centre",
+    "price": "R 2 750 000",
     "location": "Cape Town City Centre",
-    "bedrooms": 3,
-    "bathrooms": 3,
-    "area": "173 m²",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": "65 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365573469/Ensure1280x720"
+      "https://images.prop24.com/365456846/Ensure1280x720"
     ],
-    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -84,10 +84,8 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Luxury Finishes",
-      "Premium Building",
-      "Concierge Service",
-      "Executive Living"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116455279",
@@ -96,18 +94,18 @@ export const mockProperties: Property[] = [
   },
   {
     "id": "116455489",
-    "title": "3 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 12 995 000",
+    "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
+    "price": "R 3 200 000",
     "location": "Cape Town City Centre",
-    "bedrooms": 3,
-    "bathrooms": 3,
-    "area": "172 m²",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": "72 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365573471/Ensure1280x720"
+      "https://images.prop24.com/365668291/Ensure1280x720"
     ],
-    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -115,10 +113,8 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Luxury Finishes",
-      "Premium Building",
-      "Concierge Service",
-      "Executive Living"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116455489",
@@ -128,7 +124,7 @@ export const mockProperties: Property[] = [
   {
     "id": "116455093",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 4 500 000",
+    "price": "R 3 300 000",
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
@@ -136,9 +132,9 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365573467/Ensure1280x720"
+      "https://images.prop24.com/365453847/Ensure1280x720"
     ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 300 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -157,7 +153,7 @@ export const mockProperties: Property[] = [
   {
     "id": "116439140",
     "title": "2 Bedroom Apartment for Sale in Gardens",
-    "price": "R 6 250 000",
+    "price": "R 3 800 000",
     "location": "Gardens",
     "bedrooms": 2,
     "bathrooms": 2,
@@ -165,9 +161,9 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365543580/Ensure1280x720"
+      "https://images.prop24.com/365167323/Ensure1280x720"
     ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 250 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 800 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
       "Table Mountain Views",
       "Company Gardens",
@@ -175,9 +171,8 @@ export const mockProperties: Property[] = [
       "Heritage Location",
       "Green Spaces",
       "Cultural District",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116439140",
@@ -186,18 +181,18 @@ export const mockProperties: Property[] = [
   },
   {
     "id": "116441627",
-    "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 3 300 000",
+    "title": "3 Bedroom Apartment for Sale in Cape Town City Centre",
+    "price": "R 4 200 000",
     "location": "Cape Town City Centre",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "area": "65 m²",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": "108 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365549295/Ensure1280x720"
+      "https://images.prop24.com/365215817/Ensure1280x720"
     ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 300 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -215,18 +210,18 @@ export const mockProperties: Property[] = [
   },
   {
     "id": "116441202",
-    "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 2 375 000",
+    "title": "3 Bedroom Apartment for Sale in Cape Town City Centre",
+    "price": "R 4 500 000",
     "location": "Cape Town City Centre",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "area": "55 m²",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": "115 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365549293/Ensure1280x720"
+      "https://images.prop24.com/365208392/Ensure1280x720"
     ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 375 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -245,7 +240,7 @@ export const mockProperties: Property[] = [
   {
     "id": "116441599",
     "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 7 500 000",
+    "price": "R 4 800 000",
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
@@ -253,9 +248,9 @@ export const mockProperties: Property[] = [
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365549297/Ensure1280x720"
+      "https://images.prop24.com/365215425/Ensure1280x720"
     ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 7 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 800 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -263,9 +258,8 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116441599",
@@ -275,17 +269,15 @@ export const mockProperties: Property[] = [
   {
     "id": "116300894",
     "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 8 900 000",
+    "price": "R 5 500 000",
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
     "area": "156 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/365340123/Ensure1280x720"
-    ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 8 900 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 5 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -305,17 +297,15 @@ export const mockProperties: Property[] = [
   {
     "id": "116338371",
     "title": "2 Bedroom Apartment for Sale in Gardens",
-    "price": "R 12 995 000",
+    "price": "R 6 200 000",
     "location": "Gardens",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "173 m²",
+    "area": "172 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/365414567/Ensure1280x720"
-    ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
+    "images": [],
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 200 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
       "Table Mountain Views",
       "Company Gardens",
@@ -323,10 +313,9 @@ export const mockProperties: Property[] = [
       "Heritage Location",
       "Green Spaces",
       "Cultural District",
-      "Luxury Finishes",
-      "Premium Building",
-      "Concierge Service",
-      "Executive Living"
+      "Modern Appliances",
+      "Secure Parking",
+      "Quality Construction"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116338371",
@@ -336,17 +325,15 @@ export const mockProperties: Property[] = [
   {
     "id": "116280718",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 2 750 000",
+    "price": "R 6 250 000",
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "55 m²",
+    "area": "173 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/365301234/Ensure1280x720"
-    ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 250 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -354,8 +341,9 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Investment Potential",
-      "Modern Design"
+      "Modern Appliances",
+      "Secure Parking",
+      "Quality Construction"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116280718",
@@ -365,17 +353,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116282958",
     "title": "2 Bedroom Apartment for Sale in Woodstock",
-    "price": "R 3 200 000",
+    "price": "R 7 500 000",
     "location": "Woodstock",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "65 m²",
+    "area": "55 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365305678/Ensure1280x720"
+      "https://images.prop24.com/362551801/Ensure1280x720"
     ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 7 500 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
     "features": [
       "Art District",
       "Trendy Neighborhood",
@@ -383,8 +371,9 @@ export const mockProperties: Property[] = [
       "Creative Hub",
       "Local Markets",
       "Urban Edge",
-      "Investment Potential",
-      "Modern Design"
+      "Modern Appliances",
+      "Secure Parking",
+      "Quality Construction"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/116282958",
@@ -394,17 +383,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116281167",
     "title": "3 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 3 800 000",
+    "price": "R 8 900 000",
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "72 m²",
+    "area": "65 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365302345/Ensure1280x720"
+      "https://images.prop24.com/362327447/Ensure1280x720"
     ],
-    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 800 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 8 900 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -412,8 +401,9 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Investment Potential",
-      "Modern Design"
+      "Modern Appliances",
+      "Secure Parking",
+      "Quality Construction"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281167",
@@ -423,17 +413,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116281209",
     "title": "3 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 4 200 000",
+    "price": "R 12 995 000",
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "88 m²",
+    "area": "72 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365302789/Ensure1280x720"
+      "https://images.prop24.com/362328219/Ensure1280x720"
     ],
-    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -441,8 +431,10 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Investment Potential",
-      "Modern Design"
+      "Luxury Finishes",
+      "Premium Building",
+      "Concierge Service",
+      "Executive Living"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116281209",
@@ -452,17 +444,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116296190",
     "title": "Studio Apartment for Sale in Gardens",
-    "price": "R 4 800 000",
+    "price": "R 2 375 000",
     "location": "Gardens",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "92 m²",
+    "area": "88 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365329012/Ensure1280x720"
+      "https://images.prop24.com/362588815/Ensure1280x720"
     ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 800 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
+    "description": "Exceptional sophisticated studio apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 375 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
       "Table Mountain Views",
       "Company Gardens",
@@ -481,17 +473,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116280871",
     "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 5 500 000",
+    "price": "R 2 750 000",
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "108 m²",
+    "area": "92 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365301567/Ensure1280x720"
+      "https://images.prop24.com/362323143/Ensure1280x720"
     ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 5 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -499,9 +491,8 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116280871",
@@ -511,17 +502,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116226593",
     "title": "2 Bedroom Apartment for Sale in Gardens",
-    "price": "R 6 200 000",
+    "price": "R 3 200 000",
     "location": "Gardens",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "115 m²",
+    "area": "108 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365201234/Ensure1280x720"
+      "https://images.prop24.com/361424611/Ensure1280x720"
     ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 200 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
       "Table Mountain Views",
       "Company Gardens",
@@ -529,9 +520,8 @@ export const mockProperties: Property[] = [
       "Heritage Location",
       "Green Spaces",
       "Cultural District",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116226593",
@@ -541,17 +531,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116283204",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 7 500 000",
+    "price": "R 3 300 000",
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "142 m²",
+    "area": "115 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365306789/Ensure1280x720"
+      "https://images.prop24.com/362361776/Ensure1280x720"
     ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 7 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 300 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -559,9 +549,8 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116283204",
@@ -571,17 +560,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116220646",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 8 900 000",
+    "price": "R 3 800 000",
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "156 m²",
+    "area": "142 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365195432/Ensure1280x720"
+      "https://images.prop24.com/361593377/Ensure1280x720"
     ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 8 900 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 800 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -589,9 +578,8 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116220646",
@@ -601,17 +589,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116200162",
     "title": "3 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 12 995 000",
+    "price": "R 4 200 000",
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "173 m²",
+    "area": "156 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365175678/Ensure1280x720"
+      "https://images.prop24.com/360998181/Ensure1280x720"
     ],
-    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -619,10 +607,8 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Luxury Finishes",
-      "Premium Building",
-      "Concierge Service",
-      "Executive Living"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116200162",
@@ -632,17 +618,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116216202",
     "title": "3 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 2 750 000",
+    "price": "R 4 500 000",
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "55 m²",
+    "area": "172 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365191234/Ensure1280x720"
+      "https://images.prop24.com/361263158/Ensure1280x720"
     ],
-    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -661,17 +647,17 @@ export const mockProperties: Property[] = [
   {
     "id": "116155994",
     "title": "Studio Apartment for Sale in Woodstock",
-    "price": "R 3 200 000",
+    "price": "R 4 800 000",
     "location": "Woodstock",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "65 m²",
+    "area": "173 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
-      "https://images.prop24.com/365120456/Ensure1280x720"
+      "https://images.prop24.com/360263014/Ensure1280x720"
     ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
+    "description": "Exceptional sophisticated studio apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 800 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
     "features": [
       "Art District",
       "Trendy Neighborhood",
@@ -690,17 +676,15 @@ export const mockProperties: Property[] = [
   {
     "id": "116344417",
     "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 3 800 000",
+    "price": "R 5 500 000",
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "72 m²",
+    "area": "55 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/365425678/Ensure1280x720"
-    ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 800 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 5 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -708,8 +692,9 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Investment Potential",
-      "Modern Design"
+      "Modern Appliances",
+      "Secure Parking",
+      "Quality Construction"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116344417",
@@ -719,17 +704,15 @@ export const mockProperties: Property[] = [
   {
     "id": "115943244",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 4 200 000",
+    "price": "R 6 200 000",
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "88 m²",
+    "area": "65 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/364987654/Ensure1280x720"
-    ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -737,8 +720,9 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Investment Potential",
-      "Modern Design"
+      "Modern Appliances",
+      "Secure Parking",
+      "Quality Construction"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115943244",
@@ -748,17 +732,15 @@ export const mockProperties: Property[] = [
   {
     "id": "115629416",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 4 800 000",
+    "price": "R 6 250 000",
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "92 m²",
+    "area": "72 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/364654321/Ensure1280x720"
-    ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 4 800 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 250 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -766,8 +748,9 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Investment Potential",
-      "Modern Design"
+      "Modern Appliances",
+      "Secure Parking",
+      "Quality Construction"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115629416",
@@ -777,17 +760,15 @@ export const mockProperties: Property[] = [
   {
     "id": "115843150",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 5 500 000",
+    "price": "R 7 500 000",
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "108 m²",
+    "area": "88 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/364876543/Ensure1280x720"
-    ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 5 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 7 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -807,17 +788,15 @@ export const mockProperties: Property[] = [
   {
     "id": "115437832",
     "title": "3 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 6 200 000",
+    "price": "R 8 900 000",
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "115 m²",
+    "area": "92 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/364456789/Ensure1280x720"
-    ],
-    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 8 900 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -837,17 +816,15 @@ export const mockProperties: Property[] = [
   {
     "id": "115285887",
     "title": "3 Bedroom Apartment for Sale in Gardens",
-    "price": "R 7 500 000",
+    "price": "R 12 995 000",
     "location": "Gardens",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "142 m²",
+    "area": "108 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/364298765/Ensure1280x720"
-    ],
-    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 7 500 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
+    "images": [],
+    "description": "Exceptional luxurious 3 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
       "Table Mountain Views",
       "Company Gardens",
@@ -855,9 +832,10 @@ export const mockProperties: Property[] = [
       "Heritage Location",
       "Green Spaces",
       "Cultural District",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
+      "Luxury Finishes",
+      "Premium Building",
+      "Concierge Service",
+      "Executive Living"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/115285887",
@@ -867,17 +845,15 @@ export const mockProperties: Property[] = [
   {
     "id": "115488888",
     "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 8 900 000",
+    "price": "R 2 375 000",
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "156 m²",
+    "area": "115 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/364512345/Ensure1280x720"
-    ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 8 900 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 375 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -885,9 +861,8 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115488888",
@@ -897,17 +872,15 @@ export const mockProperties: Property[] = [
   {
     "id": "115311090",
     "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 12 995 000",
+    "price": "R 2 750 000",
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "173 m²",
+    "area": "142 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/364334567/Ensure1280x720"
-    ],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -915,10 +888,8 @@ export const mockProperties: Property[] = [
       "Premium Shopping",
       "Harbour Views",
       "Urban Living",
-      "Luxury Finishes",
-      "Premium Building",
-      "Concierge Service",
-      "Executive Living"
+      "Investment Potential",
+      "Modern Design"
     ],
     "source": "property24",
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/115311090",
@@ -928,17 +899,15 @@ export const mockProperties: Property[] = [
   {
     "id": "114942423",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 2 750 000",
+    "price": "R 3 200 000",
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "55 m²",
+    "area": "156 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/363965432/Ensure1280x720"
-    ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
+    "images": [],
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
       "V&A Waterfront Access",
@@ -957,17 +926,15 @@ export const mockProperties: Property[] = [
   {
     "id": "114046864",
     "title": "2 Bedroom Apartment for Sale in Woodstock",
-    "price": "R 3 200 000",
+    "price": "R 3 300 000",
     "location": "Woodstock",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "65 m²",
+    "area": "172 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [
-      "https://images.prop24.com/363076543/Ensure1280x720"
-    ],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
+    "images": [],
+    "description": "Exceptional spacious 2 bedroom apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 300 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
     "features": [
       "Art District",
       "Trendy Neighborhood",
