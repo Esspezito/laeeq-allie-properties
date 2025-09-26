@@ -831,7 +831,9 @@ export const mockProperties: Property[] = [
     "area": "108 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [],
+    "images": [
+      "https://images.prop24.com/347021602/Ensure1280x720"
+    ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 12 995 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
     "features": [
       "Table Mountain Views",
@@ -860,7 +862,9 @@ export const mockProperties: Property[] = [
     "area": "115 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [],
+    "images": [
+      "https://images.prop24.com/349836494/Ensure1280x720"
+    ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 375 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
@@ -887,7 +891,9 @@ export const mockProperties: Property[] = [
     "area": "142 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [],
+    "images": [
+      "https://images.prop24.com/347411552/Ensure1280x720"
+    ],
     "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 2 750 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
