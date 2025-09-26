@@ -711,7 +711,9 @@ export const mockProperties: Property[] = [
     "area": "65 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [],
+    "images": [
+      "https://images.prop24.com/356704291/Ensure1280x720"
+    ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
@@ -739,7 +741,9 @@ export const mockProperties: Property[] = [
     "area": "72 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [],
+    "images": [
+      "https://images.prop24.com/352823262/Ensure1280x720"
+    ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 250 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
@@ -767,7 +771,9 @@ export const mockProperties: Property[] = [
     "area": "88 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [],
+    "images": [
+      "https://images.prop24.com/355092843/Ensure1280x720"
+    ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 7 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
@@ -795,7 +801,9 @@ export const mockProperties: Property[] = [
     "area": "92 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [],
+    "images": [
+      "https://images.prop24.com/343347524/Ensure1280x720"
+    ],
     "description": "Exceptional luxurious 3 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 8 900 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
