@@ -266,62 +266,8 @@ export const mockProperties: Property[] = [
     "agentName": "La'eeq Allie",
     "agentContact": "+27 82 123 4567"
   },
-  {
-    "id": "116300894",
-    "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 5 500 000",
-    "location": "Cape Town City Centre",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "area": "156 m²",
-    "type": "Apartment",
-    "status": "available",
-    "images": [],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 5 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
-    "features": [
-      "City Bowl Views",
-      "V&A Waterfront Access",
-      "Public Transport",
-      "Premium Shopping",
-      "Harbour Views",
-      "Urban Living",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
-    ],
-    "source": "property24",
-    "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116300894",
-    "agentName": "La'eeq Allie",
-    "agentContact": "+27 82 123 4567"
-  },
-  {
-    "id": "116338371",
-    "title": "2 Bedroom Apartment for Sale in Gardens",
-    "price": "R 6 200 000",
-    "location": "Gardens",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "area": "172 m²",
-    "type": "Apartment",
-    "status": "available",
-    "images": [],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Gardens. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 200 000. Perfect location near Table Mountain and Company Gardens with easy access to the vibrant Kloof Street dining and shopping precinct.",
-    "features": [
-      "Table Mountain Views",
-      "Company Gardens",
-      "Kloof Street Cafes",
-      "Heritage Location",
-      "Green Spaces",
-      "Cultural District",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
-    ],
-    "source": "property24",
-    "sourceUrl": "https://www.property24.com/for-sale/gardens/cape-town/western-cape/9145/116338371",
-    "agentName": "La'eeq Allie",
-    "agentContact": "+27 82 123 4567"
-  },
+
+
   {
     "id": "116280718",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
@@ -675,34 +621,7 @@ export const mockProperties: Property[] = [
     "agentName": "La'eeq Allie",
     "agentContact": "+27 82 123 4567"
   },
-  {
-    "id": "116344417",
-    "title": "Studio Apartment for Sale in Cape Town City Centre",
-    "price": "R 5 500 000",
-    "location": "Cape Town City Centre",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "area": "55 m²",
-    "type": "Apartment",
-    "status": "available",
-    "images": [],
-    "description": "Exceptional sophisticated studio apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 5 500 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
-    "features": [
-      "City Bowl Views",
-      "V&A Waterfront Access",
-      "Public Transport",
-      "Premium Shopping",
-      "Harbour Views",
-      "Urban Living",
-      "Modern Appliances",
-      "Secure Parking",
-      "Quality Construction"
-    ],
-    "source": "property24",
-    "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/116344417",
-    "agentName": "La'eeq Allie",
-    "agentContact": "+27 82 123 4567"
-  },
+
   {
     "id": "115943244",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
@@ -940,32 +859,4 @@ export const mockProperties: Property[] = [
     "sourceUrl": "https://www.property24.com/for-sale/cape-town-city-centre/cape-town/western-cape/9138/114942423",
     "agentName": "La'eeq Allie",
     "agentContact": "+27 82 123 4567"
-  },
-  {
-    "id": "114046864",
-    "title": "2 Bedroom Apartment for Sale in Woodstock",
-    "price": "R 3 300 000",
-    "location": "Woodstock",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "area": "172 m²",
-    "type": "Apartment",
-    "status": "available",
-    "images": [],
-    "description": "Exceptional spacious 2 bedroom apartment in prestigious Woodstock. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 300 000. Trendy Woodstock location with easy access to the city center and emerging arts district.",
-    "features": [
-      "Art District",
-      "Trendy Neighborhood",
-      "City Access",
-      "Creative Hub",
-      "Local Markets",
-      "Urban Edge",
-      "Investment Potential",
-      "Modern Design"
-    ],
-    "source": "property24",
-    "sourceUrl": "https://www.property24.com/for-sale/woodstock/cape-town/western-cape/10164/114046864",
-    "agentName": "La'eeq Allie",
-    "agentContact": "+27 82 123 4567"
-  }
-];
+  }];
