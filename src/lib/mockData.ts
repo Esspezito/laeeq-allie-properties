@@ -332,7 +332,9 @@ export const mockProperties: Property[] = [
     "area": "173 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [],
+    "images": [
+      "https://images.prop24.com/362320551/Ensure1280x720"
+    ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 6 250 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
@@ -920,7 +922,9 @@ export const mockProperties: Property[] = [
     "area": "156 m²",
     "type": "Apartment",
     "status": "available",
-    "images": [],
+    "images": [
+      "https://images.prop24.com/341852915/Ensure1280x720"
+    ],
     "description": "Exceptional spacious 2 bedroom apartment in prestigious Cape Town City Centre. This beautifully designed property features modern finishes, premium amenities, and spectacular views. Listed by La'eeq Allie at R 3 200 000. Prime City Centre location with V&A Waterfront access, world-class shopping, and stunning harbor views.",
     "features": [
       "City Bowl Views",
