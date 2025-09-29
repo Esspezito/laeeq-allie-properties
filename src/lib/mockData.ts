@@ -398,7 +398,7 @@ export const mockProperties: Property[] = [
     "bathrooms": 1,
     "area": "88 m²",
     "type": "Apartment",
-    "status": "available",
+    "status": "under-offer",
     "images": [
       "https://images.prop24.com/362588815/Ensure1280x720"
     ],
@@ -572,7 +572,7 @@ export const mockProperties: Property[] = [
     "bathrooms": 3,
     "area": "172 m²",
     "type": "Apartment",
-    "status": "available",
+    "status": "under-offer",
     "images": [
       "https://images.prop24.com/361263158/Ensure1280x720"
     ],
