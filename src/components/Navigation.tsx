@@ -41,7 +41,7 @@ export default function Navigation() {
                 transition: { duration: 0.2 }
               }}
             >
-              La'eeq Allie Properties
+              Allie Realty
             </motion.div>
           </Link>
 
