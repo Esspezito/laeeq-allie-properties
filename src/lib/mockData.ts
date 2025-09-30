@@ -625,7 +625,7 @@ export const mockProperties: Property[] = [
   {
     "id": "115943244",
     "title": "2 Bedroom Apartment for Sale in Cape Town City Centre",
-    "price": "R 6 200 000",
+    "price": "R 4 495 000",
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,

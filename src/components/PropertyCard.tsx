@@ -168,11 +168,13 @@ export default function PropertyCard({ property, index = 0 }: PropertyCardProps)
               Property Sold
             </Button>
           ) : (
-            <Button 
-              className="w-full group/btn bg-gradient-to-r from-primary to-primary/80 text-primary-foreground hover:from-primary/90 hover:to-primary/70 shadow-md font-poppins font-semibold tracking-wide transition-all duration-300 hover:scale-[1.02] hover:shadow-lg" 
-              onClick={() => {
-                // Open in new tab using redirect API to avoid referrer issues
-                window.open(`/api/redirect?url=${encodeURIComponent(property.sourceUrl)}`, '_blank');
+            <Button
+              className="w-full group/btn bg-gradient-to-r from-primary to-primary/80 text-primary-foreground hover:from-primary/90 hover:to-primary/70 shadow-md font-poppins font-semibold tracking-wide transition-all duration-300 hover:scale-[1.02] hover:shadow-lg"
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                // Direct redirect to Property24 - more reliable than intermediate page
+                window.open(property.sourceUrl, '_blank', 'noopener,noreferrer');
               }}
             >
               View on {property.source === 'property24' ? 'Property24' : property.source === 'greeff' ? 'Greeff' : 'Private Property'}
