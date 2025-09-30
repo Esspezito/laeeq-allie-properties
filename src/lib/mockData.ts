@@ -41,7 +41,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "55 m²",
+    "area": "91 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -70,7 +70,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "65 m²",
+    "area": "173 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -99,7 +99,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "72 m²",
+    "area": "172 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -186,7 +186,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "108 m²",
+    "area": "52 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -215,7 +215,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "115 m²",
+    "area": "39 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -244,7 +244,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "142 m²",
+    "area": "44 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -305,7 +305,7 @@ export const mockProperties: Property[] = [
     "location": "Woodstock",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "55 m²",
+    "area": "145 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -335,7 +335,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "65 m²",
+    "area": "49 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -365,7 +365,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "72 m²",
+    "area": "47 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -396,7 +396,7 @@ export const mockProperties: Property[] = [
     "location": "Gardens",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "88 m²",
+    "area": "49 m²",
     "type": "Apartment",
     "status": "under-offer",
     "images": [
@@ -425,7 +425,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 1,
     "bathrooms": 1,
-    "area": "92 m²",
+    "area": "63 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -454,7 +454,7 @@ export const mockProperties: Property[] = [
     "location": "Gardens",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "108 m²",
+    "area": "89 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -483,7 +483,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "115 m²",
+    "area": "25 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -512,7 +512,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 2,
     "bathrooms": 2,
-    "area": "142 m²",
+    "area": "42 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -541,7 +541,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "156 m²",
+    "area": "53 m²",
     "type": "Apartment",
     "status": "available",
     "images": [
@@ -570,7 +570,7 @@ export const mockProperties: Property[] = [
     "location": "Cape Town City Centre",
     "bedrooms": 3,
     "bathrooms": 3,
-    "area": "172 m²",
+    "area": "61 m²",
     "type": "Apartment",
     "status": "under-offer",
     "images": [
